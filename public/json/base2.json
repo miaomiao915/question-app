@@ -1,0 +1,1242 @@
+{
+  "id": 2,
+  "title": "社会心理学单科作业",
+  "subject": "心理学",
+  "total": 110,
+  "questions": [
+    {
+      "id": 1,
+      "question": "根据霍兰德的观点，社会心理学的形成期是在（）",
+      "options": [
+        { "key": "A", "value": "社会哲学阶段" },
+        { "key": "B", "value": "哲学思辨阶段" },
+        { "key": "C", "value": "经验描述阶段" },
+        { "key": "D", "value": "实证分析阶段" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "社会行为公式B=f（P,E）中，B指（）",
+      "options": [
+        { "key": "A", "value": "行为" },
+        { "key": "B", "value": "个体所处的情境" },
+        { "key": "C", "value": "个体" },
+        { "key": "D", "value": "函数关系" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "社会行为公式B=f（P,E）中，P指（）",
+      "options": [
+        { "key": "A", "value": "行为" },
+        { "key": "B", "value": "个体所处的情境" },
+        { "key": "C", "value": "个体" },
+        { "key": "D", "value": "函数关系" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "社会心理学经验描述阶段的特点是在（）的基础上，对人类的心理活动和行为方式进行客观的描述和分析",
+      "options": [
+        { "key": "A", "value": "观察" },
+        { "key": "B", "value": "实验" },
+        { "key": "C", "value": "思辩" },
+        { "key": "D", "value": "归纳" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "勒温认为要理解和描述行为，必须同时考虑人和其（）",
+      "options": [
+        { "key": "A", "value": "情绪状态" },
+        { "key": "B", "value": "过去的经验" },
+        { "key": "C", "value": "个性特征" },
+        { "key": "D", "value": "所处的情境" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "社会行为是由（）引起，并对社会产生影响的反应系统",
+      "options": [
+        { "key": "A", "value": "社会因素" },
+        { "key": "B", "value": "现实生活" },
+        { "key": "C", "value": "周围环境" },
+        { "key": "D", "value": "即时情境" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "社会行为公式B=f（P,E）中，E的含义是（）",
+      "options": [
+        { "key": "A", "value": "行为" },
+        { "key": "B", "value": "函数关系" },
+        { "key": "C", "value": "个体" },
+        { "key": "D", "value": "个体所处的情境" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "麦独孤（W.McDougall）用（）来解释人类的社会行为",
+      "options": [
+        { "key": "A", "value": "认知过程" },
+        { "key": "B", "value": "学习" },
+        { "key": "C", "value": "社会影响" },
+        { "key": "D", "value": "本能" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "社会学习论的理论根源是（）",
+      "options": [
+        { "key": "A", "value": "心理分析" },
+        { "key": "B", "value": "行为主义" },
+        { "key": "C", "value": "认知理论" },
+        { "key": "D", "value": "人本主义" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "与人本主义心理学关系最不密切的概念是（）",
+      "options": [
+        { "key": "A", "value": "存在主义" },
+        { "key": "B", "value": "自我实现" },
+        { "key": "C", "value": "人的尊严" },
+        { "key": "D", "value": "观察学习" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "性别表示男女在（）",
+      "options": [
+        { "key": "A", "value": "生物学方面的差异" },
+        { "key": "B", "value": "人格特征方面的差异" },
+        { "key": "C", "value": "社会学方面的差异" },
+        { "key": "D", "value": "行为方式方面的差异" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "由他人的判断所反映的自我概念，称为（）",
+      "options": [
+        { "key": "A", "value": "反思自我" },
+        { "key": "B", "value": "客我" },
+        { "key": "C", "value": "社会自我" },
+        { "key": "D", "value": "镜我" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "自我概念比真实自我对个体的行为及人格有更为重要的作用，这是（）的观点",
+      "options": [
+        { "key": "A", "value": "C·罗杰斯" },
+        { "key": "B", "value": "M·米德" },
+        { "key": "C", "value": "W·詹姆士" },
+        { "key": "D", "value": "K·勒温" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "不属于社会化的载体的是（）",
+      "options": [
+        { "key": "A", "value": "家庭" },
+        { "key": "B", "value": "大学" },
+        { "key": "C", "value": "杂志" },
+        { "key": "D", "value": "意识" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "企业家属于（）的社会角色",
+      "options": [
+        { "key": "A", "value": "表现型" },
+        { "key": "B", "value": "功利型" },
+        { "key": "C", "value": "开放型" },
+        { "key": "D", "value": "创新性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "自我概念（self）是指（）",
+      "options": [
+        { "key": "A", "value": "人格中的监控成分" },
+        { "key": "B", "value": "人格中的本能成分" },
+        { "key": "C", "value": "人的真实的本体性" },
+        { "key": "D", "value": "人如何看待自己" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "自我概念的形成与发展大致经历三个阶段，即（）",
+      "options": [
+        { "key": "A", "value": "从生理自我到心理自我，最后到社会自我" },
+        { "key": "B", "value": "从生理自我到社会自我，最后到心理自我" },
+        { "key": "C", "value": "从社会自我到生理自我，最后到心理自我" },
+        { "key": "D", "value": "从心理自我到生理自我，最后到社会自我" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "角色承担者不得不退出舞台，放弃原有角色，这属于（）",
+      "options": [
+        { "key": "A", "value": "角色冲突" },
+        { "key": "B", "value": "角色不清" },
+        { "key": "C", "value": "角色中断" },
+        { "key": "D", "value": "角色失败" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "由他人的判断所反映的自我概念，是（）",
+      "options": [
+        { "key": "A", "value": "主我" },
+        { "key": "B", "value": "客我" },
+        { "key": "C", "value": "镜我" },
+        { "key": "D", "value": "超我" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "现实生活中，个体要被他人、公众与社会所接受，其行为表现必须符合社会对他的（）",
+      "options": [
+        { "key": "A", "value": "印象定位" },
+        { "key": "B", "value": "角色期待" },
+        { "key": "C", "value": "基本规范" },
+        { "key": "D", "value": "评价标准" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "全部社会化的前提是（）",
+      "options": [
+        { "key": "A", "value": "性别社会化" },
+        { "key": "B", "value": "政治社会化" },
+        { "key": "C", "value": "道德社会化" },
+        { "key": "D", "value": "语言社会化" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "詹姆士的自尊公式是（）",
+      "options": [
+        { "key": "A", "value": "自尊=成功/自信" },
+        { "key": "B", "value": "自尊=成功/抱负" },
+        { "key": "C", "value": "自尊=自信/抱负" },
+        { "key": "D", "value": "自尊=抱负/成功" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "自尊是个体对其（）进行自我评价的结果",
+      "options": [
+        { "key": "A", "value": "社会角色" },
+        { "key": "B", "value": "自我概念" },
+        { "key": "C", "value": "自我意识" },
+        { "key": "D", "value": "自我价值" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "第一印象的作用机制是（）",
+      "options": [
+        { "key": "A", "value": "近因效应" },
+        { "key": "B", "value": "光环效应" },
+        { "key": "C", "value": "刻板印象" },
+        { "key": "D", "value": "首因效应" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "在形成总体印象时，不仅考虑积极特征与消极特征的数量与强度，而且从逻辑上判断各种特征的重要性，这是（）",
+      "options": [
+        { "key": "A", "value": "平均模式" },
+        { "key": "B", "value": "中心品质模式" },
+        { "key": "C", "value": "加法模式" },
+        { "key": "D", "value": "加权平均模式" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "根据凯利的三维理论，如果特异性高、共同性和一致性低，那么人们往往归因于（）",
+      "options": [
+        { "key": "A", "value": "社会视角" },
+        { "key": "B", "value": "行为主体" },
+        { "key": "C", "value": "刺激客体" },
+        { "key": "D", "value": "情境" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "光环效应是一种（）的现象",
+      "options": [
+        { "key": "A", "value": "社会适应" },
+        { "key": "B", "value": "信息干扰" },
+        { "key": "C", "value": "先入为主" },
+        { "key": "D", "value": "以偏概全" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question": "人脑中已有的知识经验网络称为（）",
+      "options": [
+        { "key": "A", "value": "图式" },
+        { "key": "B", "value": "核心知识" },
+        { "key": "C", "value": "框架" },
+        { "key": "D", "value": "内隐认知" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "在印象形成过程中，个体把各种具体信息综合后，按照保持逻辑一致性和情感一致性的原则，形成（）",
+      "options": [
+        { "key": "A", "value": "第一印象" },
+        { "key": "B", "value": "刻板印象" },
+        { "key": "C", "value": "总体印象" },
+        { "key": "D", "value": "客观印象" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "“集体潜意识”概念是（）提出来的",
+      "options": [
+        { "key": "A", "value": "佛洛依德" },
+        { "key": "B", "value": "霍妮" },
+        { "key": "C", "value": "沙利文" },
+        { "key": "D", "value": "荣格" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "刻板印象使人的社会知觉过程简化，因此它具有（）的作用",
+      "options": [
+        { "key": "A", "value": "概括化" },
+        { "key": "B", "value": "社会适应" },
+        { "key": "C", "value": "抽象化" },
+        { "key": "D", "value": "消极" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "在有限经验的基础上形成的刻板印象往往具有（）的作用",
+      "options": [
+        { "key": "A", "value": "积极" },
+        { "key": "B", "value": "双向作用" },
+        { "key": "C", "value": "消极" },
+        { "key": "D", "value": "定势作用" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "个体以一定方式去影响他人对自己的印象是（）",
+      "options": [
+        { "key": "A", "value": "印象输入" },
+        { "key": "B", "value": "印象输出" },
+        { "key": "C", "value": "印象管理" },
+        { "key": "D", "value": "印象形成" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "社会知觉是个体对他人、群体以及（）的知觉",
+      "options": [
+        { "key": "A", "value": "自己" },
+        { "key": "B", "value": "社会" },
+        { "key": "C", "value": "自然" },
+        { "key": "D", "value": "环境" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "当事人和观察者对当事人行为原因的解释往往有明显的不同，这表明（）影响归因过程及其结果",
+      "options": [
+        { "key": "A", "value": "利益" },
+        { "key": "B", "value": "社会视角" },
+        { "key": "C", "value": "态度" },
+        { "key": "D", "value": "控制点" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "对可控性因素的归因，使人们更可能对行为做出（）的预测",
+      "options": [
+        { "key": "A", "value": "准确" },
+        { "key": "B", "value": "变化" },
+        { "key": "C", "value": "稳定" },
+        { "key": "D", "value": "系统" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "在个体社会化过程中起关键作用的人或者人群称为（）",
+      "options": [
+        { "key": "A", "value": "抽象化他人" },
+        { "key": "B", "value": "重要他人" },
+        { "key": "C", "value": "概括化他人" },
+        { "key": "D", "value": "一般他人" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "某些人认为个体生活中多数事情的结果是个人不能控制的各种外部力量的作用造成的，这种人被称为（）",
+      "options": [
+        { "key": "A", "value": "行动者" },
+        { "key": "B", "value": "观察者" },
+        { "key": "C", "value": "外控者" },
+        { "key": "D", "value": "内控者" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "根据凯利的三维归因理论，如果一个人的行为存在特异性低、共同性低、一致性高的情况，就在有可能被归因于（）",
+      "options": [
+        { "key": "A", "value": "行为主体" },
+        { "key": "B", "value": "刺激客体" },
+        { "key": "C", "value": "偶然因素" },
+        { "key": "D", "value": "环境背景" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "时间会影响归因，人们会对过去许久的事情，倾向于解释为（）的原因",
+      "options": [
+        { "key": "A", "value": "图形" },
+        { "key": "B", "value": "刺激客体" },
+        { "key": "C", "value": "背景" },
+        { "key": "D", "value": "行为主体" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "关于利他行为，下列说法错误的是（）",
+      "options": [
+        { "key": "A", "value": "噪音等恶劣的环境会减少利他行为" },
+        { "key": "B", "value": "助人的榜样，会增加人们的利他行为" },
+        {
+          "key": "C",
+          "value": "他人在场，往往会产生社会助长效应，对利他行为有积极影响"
+        },
+        { "key": "D", "value": "长得漂亮的女人一般更容易得到男人的帮助" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "羞耻是一种（）的社交情绪",
+      "options": [
+        { "key": "A", "value": "积极" },
+        { "key": "B", "value": "作用不明" },
+        { "key": "C", "value": "消极" },
+        { "key": "D", "value": "有积极作用，也有消极作用" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "question": "动机强度和活动效率的关系大致是（）型曲线",
+      "options": [
+        { "key": "A", "value": "倒U" },
+        { "key": "B", "value": "U" },
+        { "key": "C", "value": "线性" },
+        { "key": "D", "value": "N" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "在群体活动时，个体的侵犯性倾向于（）",
+      "options": [
+        { "key": "A", "value": "减少" },
+        { "key": "B", "value": "保持稳定" },
+        { "key": "C", "value": "增加" },
+        { "key": "D", "value": "受到抑制" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "个体认为自己对实际的或者想象的罪行或过失负有责任，而产生情绪体验是（）",
+      "options": [
+        { "key": "A", "value": "内疚" },
+        { "key": "B", "value": "羞耻" },
+        { "key": "C", "value": "焦虑" },
+        { "key": "D", "value": "嫉妒" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "利他行为中有一现象称为“旁观者效应”，其意思是（）",
+      "options": [
+        { "key": "A", "value": "他人在场有利于促进助人行为" },
+        { "key": "B", "value": "他人在场对利他行为有负面影响" },
+        { "key": "C", "value": "他人在场，会激励助人者" },
+        { "key": "D", "value": "他人在场使助人者体会到社会赞许，增进助人行为" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "根据研究，每种活动都存在最佳的动机水平，随着任务难度的增加，最佳动机水平有（）的趋势",
+      "options": [
+        { "key": "A", "value": "逐渐降低" },
+        { "key": "B", "value": "逐渐上升" },
+        { "key": "C", "value": "迅速上升" },
+        { "key": "D", "value": "迅速降低" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "一般情况下，自我控制能力和个体的侵犯性之间的关系是（）",
+      "options": [
+        { "key": "A", "value": "正相关" },
+        { "key": "B", "value": "负相关" },
+        { "key": "C", "value": "零相关" },
+        { "key": "D", "value": "不确定" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "态度的ABC模型中，B指（）",
+      "options": [
+        { "key": "A", "value": "行为" },
+        { "key": "B", "value": "情感" },
+        { "key": "C", "value": "感觉" },
+        { "key": "D", "value": "行为倾向" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "question": "态度转变是在沟通信息与接收者原有态度存在差异的情况下发生的，对于威信低的传递者，要引发最大的态度转变量，这种差异应该（）",
+      "options": [
+        { "key": "A", "value": "适中" },
+        { "key": "B", "value": "较大" },
+        { "key": "C", "value": "较小" },
+        { "key": "D", "value": "最大" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "信息如果能唤起人们的畏惧情绪，一般有利于说服。畏惧和说服之间是（）关系",
+      "options": [
+        { "key": "A", "value": "U型曲线" },
+        { "key": "B", "value": "线性" },
+        { "key": "C", "value": "倒U型曲线" },
+        { "key": "D", "value": "指数曲线" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 52,
+      "question": "态度的各个成分之间不协调时，（）往往占有主导地位",
+      "options": [
+        { "key": "A", "value": "情感成分" },
+        { "key": "B", "value": "行为倾向成分" },
+        { "key": "C", "value": "认知成分" },
+        { "key": "D", "value": "动机成分" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "人际关系深度的一个敏感的“探测器”是（）",
+      "options": [
+        { "key": "A", "value": "自我暴露程度" },
+        { "key": "B", "value": "好恶评价" },
+        { "key": "C", "value": "情感卷入程度" },
+        { "key": "D", "value": "亲密行为" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "个体对特定态度对象的卷入程度，反映的态度属性是（）",
+      "options": [
+        { "key": "A", "value": "强度" },
+        { "key": "B", "value": "外显度" },
+        { "key": "C", "value": "方向" },
+        { "key": "D", "value": "深度" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "个体对特定对象的总的评价和稳定性的反应倾向是（）",
+      "options": [
+        { "key": "A", "value": "归因" },
+        { "key": "B", "value": "态度" },
+        { "key": "C", "value": "动机" },
+        { "key": "D", "value": "情绪" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "海德的态度转变理论是（）",
+      "options": [
+        { "key": "A", "value": "角色理论" },
+        { "key": "B", "value": "认知失调论" },
+        { "key": "C", "value": "平衡理论" },
+        { "key": "D", "value": "社会交换论" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "在态度的成分中，起主导作用的是（）成分",
+      "options": [
+        { "key": "A", "value": "外显行为" },
+        { "key": "B", "value": "情感" },
+        { "key": "C", "value": "行为倾向" },
+        { "key": "D", "value": "认知" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "一般来说，最能准确反映人的内心状况的身体语言形式是（）",
+      "options": [
+        { "key": "A", "value": "目光" },
+        { "key": "B", "value": "面部表情" },
+        { "key": "C", "value": "姿势" },
+        { "key": "D", "value": "空间距离" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "下列说法中错误的是（）",
+      "options": [
+        { "key": "A", "value": "瞳孔的变化能反映个体的情绪变化" },
+        { "key": "B", "value": "经过训练人能够较为自如的控制自己的面部表情" },
+        { "key": "C", "value": "面部表情和实际的情绪状态一致" },
+        { "key": "D", "value": "人对目光很难做到随意控制" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 60,
+      "question": "人际关系是人与人在沟通与交往中建立起来的直接的（）的联系",
+      "options": [
+        { "key": "A", "value": "心理上" },
+        { "key": "B", "value": "认知上" },
+        { "key": "C", "value": "行为上" },
+        { "key": "D", "value": "道德上" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "态度倾向于某一特定方向的程度指的是态度的（）",
+      "options": [
+        { "key": "A", "value": "强度" },
+        { "key": "B", "value": "向中度" },
+        { "key": "C", "value": "深度" },
+        { "key": "D", "value": "方向" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "根据安德森的研究，影响人际吸引最重要的人格品质是（）",
+      "options": [
+        { "key": "A", "value": "智慧" },
+        { "key": "B", "value": "真诚" },
+        { "key": "C", "value": "热情" },
+        { "key": "D", "value": "幽默" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "（）是个体与他人之间情感上的相互亲密的状态，是人际关系中的一种肯定形式",
+      "options": [
+        { "key": "A", "value": "亲合" },
+        { "key": "B", "value": "利他关系" },
+        { "key": "C", "value": "依赖" },
+        { "key": "D", "value": "人际吸引" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 64,
+      "question": "在人际吸引的影响因素中，可视为相似性的特殊形式的是（）",
+      "options": [
+        { "key": "A", "value": "熟悉" },
+        { "key": "B", "value": "互补" },
+        { "key": "C", "value": "邻近" },
+        { "key": "D", "value": "竞争" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "“对肯定自我价值的他人，个体对其认同和接纳”，这一现象表明人际关系遵守（）",
+      "options": [
+        { "key": "A", "value": "相互性原则" },
+        { "key": "B", "value": "交换性原则" },
+        { "key": "C", "value": "自我价值保护原则" },
+        { "key": "D", "value": "平等性原则" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "一般来说，人在（）时，情感体验最为深刻",
+      "options": [
+        { "key": "A", "value": "身体运动" },
+        { "key": "B", "value": "身体接触" },
+        { "key": "C", "value": "目光接触" },
+        { "key": "D", "value": "身体欠安" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "在一项试验中，给被试呈现一组他人的面部照片，照片被呈现的次数不同，结果发现，照片呈现次数越多，被试越喜欢，这说明人际吸引受（）的影响",
+      "options": [
+        { "key": "A", "value": "熟悉" },
+        { "key": "B", "value": "相似" },
+        { "key": "C", "value": "临近" },
+        { "key": "D", "value": "外貌" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "一般来说，最能吸引人的人格品质是（）",
+      "options": [
+        { "key": "A", "value": "热情" },
+        { "key": "B", "value": "真诚" },
+        { "key": "C", "value": "善良" },
+        { "key": "D", "value": "智慧" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "一般情况下，最让人反感的人格品质是（）",
+      "options": [
+        { "key": "A", "value": "自私" },
+        { "key": "B", "value": "虚伪" },
+        { "key": "C", "value": "古怪" },
+        { "key": "D", "value": "粗鲁" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "“体语”不包括（）",
+      "options": [
+        { "key": "A", "value": "身体接触" },
+        { "key": "B", "value": "社会距离" },
+        { "key": "C", "value": "装束打扮" },
+        { "key": "D", "value": "人际距离" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "从众是一种（）接受群体影响的方式",
+      "options": [
+        { "key": "A", "value": "被动地" },
+        { "key": "B", "value": "主动地" },
+        { "key": "C", "value": "积极地" },
+        { "key": "D", "value": "客观地" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "在有人陪同的活动中，个体会感到社会比较的压力，从而提高工作或活动效率，这是社会促进中的（）",
+      "options": [
+        { "key": "A", "value": "结伴效应" },
+        { "key": "B", "value": "观众效应" },
+        { "key": "C", "value": "比较效应" },
+        { "key": "D", "value": "竞争效应" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "下列说法中，不符合塔尔德观点的是（）",
+      "options": [
+        { "key": "A", "value": "一切事物不是发明，就是模仿" },
+        { "key": "B", "value": "模仿是基本的社会现象" },
+        { "key": "C", "value": "社会下层人士往往具有模仿社会上层人士的倾向" },
+        {
+          "key": "D",
+          "value": "个体对外域文化及其行为方式的模仿，总是优于对本土文化及其行为方式的模仿"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "在“吃大锅饭”的单位，最容易产生的现象是（）",
+      "options": [
+        { "key": "A", "value": "社会促进" },
+        { "key": "B", "value": "社会抑制" },
+        { "key": "C", "value": "平衡理论" },
+        { "key": "D", "value": "社会懈怠" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 75,
+      "question": "“男女搭配，干活不累”，这是一种社会（）现象",
+      "options": [
+        { "key": "A", "value": "助长" },
+        { "key": "B", "value": "逍遥" },
+        { "key": "C", "value": "强化" },
+        { "key": "D", "value": "抑制" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "关于暗示，错误的说法是（）",
+      "options": [
+        {
+          "key": "A",
+          "value": "被暗示者处于困难情境又缺乏社会支持时容易接受暗示"
+        },
+        { "key": "B", "value": "年龄越小时个体越容易接受暗示" },
+        { "key": "C", "value": "有人格魅力的暗示者暗示效果较好" },
+        { "key": "D", "value": "总的来说男性和女性在易受暗示性方面没有差异" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 77,
+      "question": "人际吸引的最强烈的形式是（）",
+      "options": [
+        { "key": "A", "value": "亲合" },
+        { "key": "B", "value": "喜欢" },
+        { "key": "C", "value": "亲情" },
+        { "key": "D", "value": "爱情" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 78,
+      "question": "由夫妻和一对已婚子女组合而成的家庭是（）",
+      "options": [
+        { "key": "A", "value": "核心家庭" },
+        { "key": "B", "value": "主干家庭" },
+        { "key": "C", "value": "联合家庭" },
+        { "key": "D", "value": "单亲家庭" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "关于爱情的描述，不正确的是（）",
+      "options": [
+        { "key": "A", "value": "爱情具有浪漫色彩" },
+        { "key": "B", "value": "爱情是一种高级情感" },
+        { "key": "C", "value": "幼儿也有爱情" },
+        { "key": "D", "value": "爱情是人际吸引最强烈的形式" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "婚姻关系的本质在于它的（）",
+      "options": [
+        { "key": "A", "value": "社会性" },
+        { "key": "B", "value": "经济性" },
+        { "key": "C", "value": "繁衍性" },
+        { "key": "D", "value": "激情性" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "G·奥尔波特认为，个体的思想、情感和行为会受他人存在的影响，他人存在形式包括（）",
+      "options": [
+        { "key": "A", "value": "虚拟的存在" },
+        { "key": "B", "value": "现实的存在" },
+        { "key": "C", "value": "想象的存在" },
+        { "key": "D", "value": "隐含的存在" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 82,
+      "question": "自我概念的功能包括（）",
+      "options": [
+        { "key": "A", "value": "印象管理" },
+        { "key": "B", "value": "决定期待" },
+        { "key": "C", "value": "解释经验" },
+        { "key": "D", "value": "保持个体内在的一致性" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 83,
+      "question": "个体社会化的主要载体包括（）",
+      "options": [
+        { "key": "A", "value": "家庭" },
+        { "key": "B", "value": "大众传媒" },
+        { "key": "C", "value": "学校" },
+        { "key": "D", "value": "交通工具" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 84,
+      "question": "角色失调包括（）",
+      "options": [
+        { "key": "A", "value": "角色冲突" },
+        { "key": "B", "value": "角色失败" },
+        { "key": "C", "value": "角色不清" },
+        { "key": "D", "value": "角色误解" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 85,
+      "question": "按角色获得的方式可将角色分为（）",
+      "options": [
+        { "key": "A", "value": "先赋角色" },
+        { "key": "B", "value": "功利角色" },
+        { "key": "C", "value": "表现角色" },
+        { "key": "D", "value": "成就角色" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 86,
+      "question": "自尊需要包括（）",
+      "options": [
+        { "key": "A", "value": "对成就、优势与自信等的欲望" },
+        { "key": "B", "value": "对名誉、支配地位、赞赏的欲望" },
+        { "key": "C", "value": "对归宿感的需要" },
+        { "key": "D", "value": "对实现自我价值的需要" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 87,
+      "question": "人们往往对自己的失败外归因，这属于一种（）",
+      "options": [
+        { "key": "A", "value": "自我障碍" },
+        { "key": "B", "value": "自我价值保护倾向" },
+        { "key": "C", "value": "自我抬高" },
+        { "key": "D", "value": "动机性归因偏差" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 88,
+      "question": "挫折—侵犯学说的要点包括（）",
+      "options": [
+        { "key": "A", "value": "人在受挫折后，一定会产生侵犯行为" },
+        { "key": "B", "value": "侵犯强度同目标受阻强度呈正比" },
+        {
+          "key": "C",
+          "value": "抑制侵犯的力量与该侵犯可能受到的预期惩罚强度呈正比"
+        },
+        {
+          "key": "D",
+          "value": "如果挫折强度一定，预期惩罚越大，侵犯发生的可能性则越小"
+        }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 89,
+      "question": "人们常用自我防卫策略来弱化说服信息的影响，这样的策略包括（）",
+      "options": [
+        { "key": "A", "value": "贬损来源" },
+        { "key": "B", "value": "歪曲信息" },
+        { "key": "C", "value": "论点辩驳" },
+        { "key": "D", "value": "投射作用" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 90,
+      "question": "霍夫兰德（C.Hovland）态度转变模型包含的要素有（）",
+      "options": [
+        { "key": "A", "value": "信息" },
+        { "key": "B", "value": "背景" },
+        { "key": "C", "value": "反馈" },
+        { "key": "D", "value": "通道" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 91,
+      "question": "“人际关系的三维理论”的“三维”包括（）",
+      "options": [
+        { "key": "A", "value": "包容需要" },
+        { "key": "B", "value": "支配需要" },
+        { "key": "C", "value": "成就需要" },
+        { "key": "D", "value": "情感需要" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 92,
+      "question": "沟通的结构要素包括（）",
+      "options": [
+        { "key": "A", "value": "信息" },
+        { "key": "B", "value": "强化" },
+        { "key": "C", "value": "反馈" },
+        { "key": "D", "value": "通道" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 93,
+      "question": "关于社交焦虑，下列说法中正确的包括（）",
+      "options": [
+        {
+          "key": "A",
+          "value": "是一种与人交往的时候，觉得不舒服、不自然、紧张，甚至恐惧的情绪体验"
+        },
+        {
+          "key": "B",
+          "value": "具有社交焦虑的个体与他人交往的时候一般没有生理上的症状"
+        },
+        { "key": "C", "value": "社交焦虑是一种消极的情绪体验" },
+        {
+          "key": "D",
+          "value": "为了回避导致社交焦虑的情境，个体通常是减少社交，选择孤独的生活方式"
+        }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 94,
+      "question": "根据社会心理学家的研究，个体归因时遵循的主要原则包括（）",
+      "options": [
+        { "key": "A", "value": "不变性原则" },
+        { "key": "B", "value": "折扣原则" },
+        { "key": "C", "value": "情感一致性原则" },
+        { "key": "D", "value": "协变原则" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 95,
+      "question": "在态度转变的P-O-X模型中，（）则系统处于平衡状态",
+      "options": [
+        { "key": "A", "value": "如果三种关系都是否定的" },
+        { "key": "B", "value": "如果三种关系都是肯定的" },
+        { "key": "C", "value": "如果三种关系中两种是否定的，一种是肯定的" },
+        { "key": "D", "value": "如果三种关系中两种是肯定的，一种是否定的" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 96,
+      "question": "社会懈怠的主要原因包括（）",
+      "options": [
+        { "key": "A", "value": "模仿" },
+        { "key": "B", "value": "竟争意识增加" },
+        { "key": "C", "value": "被评价的焦虑减弱" },
+        { "key": "D", "value": "责任意识降低" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 97,
+      "question": "塔尔德的模仿律包括（）",
+      "options": [
+        { "key": "A", "value": "下降律" },
+        { "key": "B", "value": "几何级数律" },
+        { "key": "C", "value": "上升律" },
+        { "key": "D", "value": "先内后外律" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 98,
+      "question": "从众行为的原因有（）",
+      "options": [
+        { "key": "A", "value": "寻求行为参照" },
+        { "key": "B", "value": "对偏离的恐惧" },
+        { "key": "C", "value": "追求成就" },
+        { "key": "D", "value": "群体凝聚力" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 99,
+      "question": "一个人要与周围的人建立良好的人际关系，应遵循的原则包括（）",
+      "options": [
+        { "key": "A", "value": "相互性原则" },
+        { "key": "B", "value": "平等原则" },
+        { "key": "C", "value": "交换性原则" },
+        { "key": "D", "value": "自我价值保护原则" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 100,
+      "question": "下列属于现实沟通的包括（）",
+      "options": [
+        { "key": "A", "value": "亲人通过电话交流" },
+        { "key": "B", "value": "面对面谈判" },
+        { "key": "C", "value": "同学通过网络聊天室聊天" },
+        { "key": "D", "value": "网络聊天室中不认识网友之间的交流" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 101,
+      "question": "身体语言包括（）",
+      "options": [
+        { "key": "A", "value": "面部表情" },
+        { "key": "B", "value": "身体姿势" },
+        { "key": "C", "value": "妆饰打扮" },
+        { "key": "D", "value": "人际距离" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 102,
+      "question": "互补对于人际吸引是重要的，互补的形式主要有（）",
+      "options": [
+        { "key": "A", "value": "情感的互补" },
+        { "key": "B", "value": "社会角色的互补" },
+        { "key": "C", "value": "需要的互补" },
+        { "key": "D", "value": "人格特征的互补" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 103,
+      "question": "态度测量的主要方法包括（）",
+      "options": [
+        { "key": "A", "value": "实验法" },
+        { "key": "B", "value": "量表法" },
+        { "key": "C", "value": "投射法" },
+        { "key": "D", "value": "行为反应测量法" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 104,
+      "question": "态度的特点包括（）",
+      "options": [
+        { "key": "A", "value": "稳定性" },
+        { "key": "B", "value": "内在性" },
+        { "key": "C", "value": "间接性" },
+        { "key": "D", "value": "针对性" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 105,
+      "question": "影响成就动机的因素不包括（）",
+      "options": [
+        { "key": "A", "value": "抱负水平" },
+        { "key": "B", "value": "成败的主观概率" },
+        { "key": "C", "value": "出生顺序" },
+        { "key": "D", "value": "个体施展才干的机会" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 106,
+      "question": "个体侵犯行为的影响因素包括（）",
+      "options": [
+        { "key": "A", "value": "道德水准" },
+        { "key": "B", "value": "情绪唤起水平" },
+        { "key": "C", "value": "社会角色" },
+        { "key": "D", "value": "他人的行为" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 107,
+      "question": "下列说法中正确的包括（）",
+      "options": [
+        { "key": "A", "value": "恐惧越强，亲合倾向越弱" },
+        { "key": "B", "value": "恐惧越强，亲合倾向越强" },
+        { "key": "C", "value": "焦虑越强，亲合倾向越弱" },
+        { "key": "D", "value": "焦虑越强，亲合倾向越强" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 108,
+      "question": "亲合的作用包括（）",
+      "options": [
+        { "key": "A", "value": "获得信息" },
+        { "key": "B", "value": "减轻心理压力" },
+        { "key": "C", "value": "避免窘境" },
+        { "key": "D", "value": "协调群体内行动" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 109,
+      "question": "印象形成的中心品质模式认为，人们经常仅仅根据对象的几个（）特征对其形成总体印象",
+      "options": [
+        { "key": "A", "value": "概括性" },
+        { "key": "B", "value": "新奇" },
+        { "key": "C", "value": "对个体意义大" },
+        { "key": "D", "value": "重要" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 110,
+      "question": "一般来说，近因效应容易在（）的人之间产生",
+      "options": [
+        { "key": "A", "value": "熟悉" },
+        { "key": "B", "value": "不熟悉" },
+        { "key": "C", "value": "亲密" },
+        { "key": "D", "value": "不常见面" }
+      ],
+      "answer": "AC"
+    }
+  ]
+}

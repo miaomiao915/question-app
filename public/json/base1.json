@@ -1,0 +1,1670 @@
+{
+  "id": 1,
+  "title": "基础心理学单科作业",
+  "subject": "心理学",
+  "total": 150,
+  "questions": [
+    {
+      "id": 1,
+      "question": "科学心理学的创始人是",
+      "options": [
+        { "key": "A", "value": "W·詹姆斯" },
+        { "key": "B", "value": "H·艾宾浩斯" },
+        { "key": "C", "value": "W·冯特" },
+        { "key": "D", "value": "S·弗洛伊德" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "“心理学的任务，在于查明S和R之间的规律性关系”，持这种观点的学派是",
+      "options": [
+        { "key": "A", "value": "机能主义心理学" },
+        { "key": "B", "value": "构造主义心理学" },
+        { "key": "C", "value": "人本主义心理学" },
+        { "key": "D", "value": "行为主义心理学" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "持环境决定论观点的是",
+      "options": [
+        { "key": "A", "value": "机能主义心理学" },
+        { "key": "B", "value": "格式塔心理学" },
+        { "key": "C", "value": "行为主义心理学" },
+        { "key": "D", "value": "精神分析学说" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "猴子能认识事物的外部联系，说明它们的心理发展到了哪个阶段。",
+      "options": [
+        { "key": "A", "value": "知觉" },
+        { "key": "B", "value": "思维萌芽" },
+        { "key": "C", "value": "思维" },
+        { "key": "D", "value": "意识" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "心理活动的器官是动物的",
+      "options": [
+        { "key": "A", "value": "感受器" },
+        { "key": "B", "value": "神经系统" },
+        { "key": "C", "value": "反射弧" },
+        { "key": "D", "value": "神经细胞" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "调节睡眠与觉醒的神经结构是",
+      "options": [
+        { "key": "A", "value": "小脑" },
+        { "key": "B", "value": "脑干网状结构" },
+        { "key": "C", "value": "丘脑" },
+        { "key": "D", "value": "下丘脑" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "调节内脏系统活动的皮层下中枢是",
+      "options": [
+        { "key": "A", "value": "下丘脑" },
+        { "key": "B", "value": "脑干" },
+        { "key": "C", "value": "上丘脑" },
+        { "key": "D", "value": "小脑" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "躯体感觉中枢位于大脑皮层的",
+      "options": [
+        { "key": "A", "value": "额叶" },
+        { "key": "B", "value": "颞叶" },
+        { "key": "C", "value": "枕叶" },
+        { "key": "D", "value": "顶叶" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "听觉中枢位于大脑皮层的",
+      "options": [
+        { "key": "A", "value": "额叶" },
+        { "key": "B", "value": "颞叶" },
+        { "key": "C", "value": "枕叶" },
+        { "key": "D", "value": "顶叶" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "脑的最古老部位是",
+      "options": [
+        { "key": "A", "value": "小脑" },
+        { "key": "B", "value": "间脑" },
+        { "key": "C", "value": "大脑" },
+        { "key": "D", "value": "脑干" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "在下列感觉中，未经丘脑中转抵达大脑皮质进行信息处理的是",
+      "options": [
+        { "key": "A", "value": "视觉" },
+        { "key": "B", "value": "听觉" },
+        { "key": "C", "value": "嗅觉" },
+        { "key": "D", "value": "味觉" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "支配内脏器官的是什么系统",
+      "options": [
+        { "key": "A", "value": "植物神经" },
+        { "key": "B", "value": "运动神经" },
+        { "key": "C", "value": "中间神经" },
+        { "key": "D", "value": "感觉神经" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "在外界刺激的持续作用下感受性发生变化的现象叫",
+      "options": [
+        { "key": "A", "value": "感觉适应" },
+        { "key": "B", "value": "感觉后像" },
+        { "key": "C", "value": "感觉对比" },
+        { "key": "D", "value": "联觉" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "声音的音色主要由声波什么决定的",
+      "options": [
+        { "key": "A", "value": "频率" },
+        { "key": "B", "value": "波形" },
+        { "key": "C", "value": "强度" },
+        { "key": "D", "value": "音调" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "白纸在橙色灯照条件下，看起来依然是白色的，这是因为知觉具有",
+      "options": [
+        { "key": "A", "value": "选择性" },
+        { "key": "B", "value": "恒常性" },
+        { "key": "C", "value": "理解性" },
+        { "key": "D", "value": "整体性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "红色让人感到温暖，这是一种什么现象",
+      "options": [
+        { "key": "A", "value": "感觉适应" },
+        { "key": "B", "value": "感觉对比" },
+        { "key": "C", "value": "感觉后像" },
+        { "key": "D", "value": "联觉" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "人类听觉的适宜刺激是频率多少赫兹的声波",
+      "options": [
+        { "key": "A", "value": "200～20000" },
+        { "key": "B", "value": "1000～4000" },
+        { "key": "C", "value": "16～20000" },
+        { "key": "D", "value": "1000～5000" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "把事物的各个部分、各种属性结合起来加以反映的知觉特性称为知觉的",
+      "options": [
+        { "key": "A", "value": "恒常性" },
+        { "key": "B", "value": "整体性" },
+        { "key": "C", "value": "选择性" },
+        { "key": "D", "value": "理解性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "红灯灭后眼睛里出现了蓝绿色的灯影，这是",
+      "options": [
+        { "key": "A", "value": "正后像" },
+        { "key": "B", "value": "互补现象" },
+        { "key": "C", "value": "负后像" },
+        { "key": "D", "value": "彩色对比" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "人脑对物质现象的延续性和顺序性的反映叫",
+      "options": [
+        { "key": "A", "value": "运动知觉" },
+        { "key": "B", "value": "时间知觉" },
+        { "key": "C", "value": "似动知觉" },
+        { "key": "D", "value": "方位知觉" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "位于中央窝上的视神经细胞主要是",
+      "options": [
+        { "key": "A", "value": "双极细胞" },
+        { "key": "B", "value": "边缘细胞" },
+        { "key": "C", "value": "杆体细胞" },
+        { "key": "D", "value": "锥体细胞" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "人们在知觉外部事物的时候，会把一部分物体当作对象，其他部分当作背景，这表明知觉具有",
+      "options": [
+        { "key": "A", "value": "整体性" },
+        { "key": "B", "value": "选择性" },
+        { "key": "C", "value": "理解性" },
+        { "key": "D", "value": "恒常性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "对弱光敏感的视觉神经细胞是",
+      "options": [
+        { "key": "A", "value": "锥体细胞" },
+        { "key": "B", "value": "双极细胞" },
+        { "key": "C", "value": "杆体细胞" },
+        { "key": "D", "value": "水平细胞" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "下列说法中正确的是",
+      "options": [
+        { "key": "A", "value": "色觉有缺陷的人一般不能说出物体的颜色" },
+        { "key": "B", "value": "色觉有缺陷的人是靠饱和度的差别来辨认颜色的" },
+        { "key": "C", "value": "色觉异常绝大多数是遗传原因造成的" },
+        { "key": "D", "value": "红绿色盲的人看不见光谱上的黄和蓝" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "语言文字的材料在短时记忆中多是什么的编码",
+      "options": [
+        { "key": "A", "value": "形象" },
+        { "key": "B", "value": "抽象" },
+        { "key": "C", "value": "视觉" },
+        { "key": "D", "value": "听觉" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "question": "由于表象具有什么特性，所以表象可以为想象提供素材",
+      "options": [
+        { "key": "A", "value": "概括性" },
+        { "key": "B", "value": "片断不稳定性" },
+        { "key": "C", "value": "可操作性" },
+        { "key": "D", "value": "直观形象性" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "遗忘的进程通常是",
+      "options": [
+        { "key": "A", "value": "先慢后快" },
+        { "key": "B", "value": "先快后慢" },
+        { "key": "C", "value": "倒U型曲线" },
+        { "key": "D", "value": "U型曲线" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "长时记忆遗忘的主要原因是自然衰退和",
+      "options": [
+        { "key": "A", "value": "固化" },
+        { "key": "B", "value": "迁移" },
+        { "key": "C", "value": "干扰" },
+        { "key": "D", "value": "定势" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "信息的编码、储存、提取方式和信息储存时间的长短是划分什么的依据",
+      "options": [
+        { "key": "A", "value": "记忆过程" },
+        { "key": "B", "value": "图象记忆和声象记忆" },
+        { "key": "C", "value": "思维过程" },
+        { "key": "D", "value": "三个记忆系统" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "瞬时记忆保存的时间一般在多少秒以内",
+      "options": [
+        { "key": "A", "value": "0.25" },
+        { "key": "B", "value": "1" },
+        { "key": "C", "value": "4" },
+        { "key": "D", "value": "5" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "先前学习的材料对识记和回忆后学习材料的干扰作用是",
+      "options": [
+        { "key": "A", "value": "前摄抑制" },
+        { "key": "B", "value": "前干扰" },
+        { "key": "C", "value": "倒摄抑制" },
+        { "key": "D", "value": "后干扰" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "短时记忆的容量一般为多少个项目",
+      "options": [
+        { "key": "A", "value": "5～9" },
+        { "key": "B", "value": "3～7" },
+        { "key": "C", "value": "7～11" },
+        { "key": "D", "value": "9～13" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "记忆过程有",
+      "options": [
+        { "key": "A", "value": "四个基本环节" },
+        { "key": "B", "value": "三个基本环节" },
+        { "key": "C", "value": "二个基本环节" },
+        { "key": "D", "value": "五个基本环节" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "短时记忆中的信息是",
+      "options": [
+        { "key": "A", "value": "不能被意识到的" },
+        { "key": "B", "value": "一种内隐信息" },
+        { "key": "C", "value": "能被意识到的" },
+        { "key": "D", "value": "一种主观臆造" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "对语词概括的各种有组织的知识的记忆叫",
+      "options": [
+        { "key": "A", "value": "语言记忆" },
+        { "key": "B", "value": "意义记忆" },
+        { "key": "C", "value": "语义记忆" },
+        { "key": "D", "value": "内隐记忆" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "“保持曲线”来源于谁的工作",
+      "options": [
+        { "key": "A", "value": "冯特" },
+        { "key": "B", "value": "艾宾浩斯" },
+        { "key": "C", "value": "华生" },
+        { "key": "D", "value": "詹姆士" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "回忆又称",
+      "options": [
+        { "key": "A", "value": "识记" },
+        { "key": "B", "value": "再现" },
+        { "key": "C", "value": "再认" },
+        { "key": "D", "value": "保持" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "人们在从事某种活动前的心理准备状态称为",
+      "options": [
+        { "key": "A", "value": "迁移" },
+        { "key": "B", "value": "定势" },
+        { "key": "C", "value": "态度" },
+        { "key": "D", "value": "动机" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "人们运用语言交流思想，进行交际的过程叫",
+      "options": [
+        { "key": "A", "value": "言语" },
+        { "key": "B", "value": "内部言语" },
+        { "key": "C", "value": "语言" },
+        { "key": "D", "value": "符号系统" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "布洛卡中枢即",
+      "options": [
+        { "key": "A", "value": "听觉性言语中枢" },
+        { "key": "B", "value": "视觉性言语中枢" },
+        { "key": "C", "value": "运动性言语中枢" },
+        { "key": "D", "value": "书写性言语中枢" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "大脑左半球额下回靠近外侧裂的部位是",
+      "options": [
+        { "key": "A", "value": "听觉性言语中枢" },
+        { "key": "B", "value": "视觉性言语中枢" },
+        { "key": "C", "value": "运动性言语中枢" },
+        { "key": "D", "value": "书写性言语中枢" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "大脑皮质的颞上回是",
+      "options": [
+        { "key": "A", "value": "听觉性言语中枢" },
+        { "key": "B", "value": "视觉性言语中枢" },
+        { "key": "C", "value": "运动性言语中枢" },
+        { "key": "D", "value": "书写性言语中枢" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "威尔尼克中枢受到严重损伤，患者会出现",
+      "options": [
+        { "key": "A", "value": "接受性失语症" },
+        { "key": "B", "value": "失读症" },
+        { "key": "C", "value": "表达性失语症" },
+        { "key": "D", "value": "失写症" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "颞上回受到损伤的人可能出现",
+      "options": [
+        { "key": "A", "value": "接受性失语症" },
+        { "key": "B", "value": "失读症" },
+        { "key": "C", "value": "表达性失语症" },
+        { "key": "D", "value": "失写症" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "大脑皮层中角回受到严重损伤，患者会出现",
+      "options": [
+        { "key": "A", "value": "失读症" },
+        { "key": "B", "value": "表达性失语症" },
+        { "key": "C", "value": "失写症" },
+        { "key": "D", "value": "接受性失语症" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "位于额中回靠近中央前回的脑区受到严重损伤，可能会导致患者出现",
+      "options": [
+        { "key": "A", "value": "失写症" },
+        { "key": "B", "value": "接受性失语症" },
+        { "key": "C", "value": "失读症" },
+        { "key": "D", "value": "表达性失语症" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "想象是",
+      "options": [
+        { "key": "A", "value": "对已有的表象进行加工改造，创造出新形象的过程" },
+        { "key": "B", "value": "认识事物的本质和事物之间的内在联系的过程" },
+        { "key": "C", "value": "人脑对客观事物间接的、概括的反映" },
+        { "key": "D", "value": "人在觉醒状态下的觉知" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "按照已知的信息和熟悉的规则进行的思维称为",
+      "options": [
+        { "key": "A", "value": "发散思维" },
+        { "key": "B", "value": "形象思维" },
+        { "key": "C", "value": "辐合思维" },
+        { "key": "D", "value": "抽象思维" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "“会看看门道，不会看看热闹”，说的是知觉具有",
+      "options": [
+        { "key": "A", "value": "整体性" },
+        { "key": "B", "value": "选择性" },
+        { "key": "C", "value": "恒常性" },
+        { "key": "D", "value": "理解性" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "question": "看见“月晕”后经常“刮风”，即得出“月晕而风”的结论，这表明思维具有",
+      "options": [
+        { "key": "A", "value": "抽象性" },
+        { "key": "B", "value": "概括性" },
+        { "key": "C", "value": "间接性" },
+        { "key": "D", "value": "情境性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "在觉醒状态下的觉知被称为",
+      "options": [
+        { "key": "A", "value": "意识" },
+        { "key": "B", "value": "注意" },
+        { "key": "C", "value": "认识" },
+        { "key": "D", "value": "知觉" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "分心指",
+      "options": [
+        { "key": "A", "value": "注意起伏" },
+        { "key": "B", "value": "注意转移" },
+        { "key": "C", "value": "注意动摇" },
+        { "key": "D", "value": "注意分散" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 53,
+      "question": "注意属于",
+      "options": [
+        { "key": "A", "value": "认知过程" },
+        { "key": "B", "value": "情感过程" },
+        { "key": "C", "value": "意志过程" },
+        { "key": "D", "value": "心理状态" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 54,
+      "question": "梦出现在",
+      "options": [
+        { "key": "A", "value": "快速眼动期" },
+        { "key": "B", "value": "深度睡眠阶段" },
+        { "key": "C", "value": "睡眠锭阶段" },
+        { "key": "D", "value": "△波阶段" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "注意离开了心理活动所要指向的对象，而被无关对象吸引过去的现象，称为",
+      "options": [
+        { "key": "A", "value": "注意转移" },
+        { "key": "B", "value": "分心" },
+        { "key": "C", "value": "注意分配" },
+        { "key": "D", "value": "注意集中" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "简单任务下注意的范围一般是多少个对象",
+      "options": [
+        { "key": "A", "value": "4～8" },
+        { "key": "B", "value": "4～6" },
+        { "key": "C", "value": "3～7" },
+        { "key": "D", "value": "5～9" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 57,
+      "question": "根据睡眠中脑电波的变化，可以将睡眠周期中的非快速眼动期分为几个阶段",
+      "options": [
+        { "key": "A", "value": "6" },
+        { "key": "B", "value": "3" },
+        { "key": "C", "value": "5" },
+        { "key": "D", "value": "4" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 58,
+      "question": "个体根据任务的要求把注意从一个对象指向并集中到另一个对象上，称为注意",
+      "options": [
+        { "key": "A", "value": "分散" },
+        { "key": "B", "value": "分配" },
+        { "key": "C", "value": "动摇" },
+        { "key": "D", "value": "转移" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "按照马斯洛的理论，尊重他人的需要属于",
+      "options": [
+        { "key": "A", "value": "生理需要" },
+        { "key": "B", "value": "生长性需要" },
+        { "key": "C", "value": "社会需要" },
+        { "key": "D", "value": "缺失性需要" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "能够引起有机体的定向活动并能满足某种需要的外部条件叫",
+      "options": [
+        { "key": "A", "value": "爱好" },
+        { "key": "B", "value": "诱因" },
+        { "key": "C", "value": "需要" },
+        { "key": "D", "value": "内驱力" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "按照马斯洛的理论，实现自我理想的需要属于",
+      "options": [
+        { "key": "A", "value": "生理需要" },
+        { "key": "B", "value": "生长性需要" },
+        { "key": "C", "value": "成就需要" },
+        { "key": "D", "value": "自我价值需要" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "由生理需要引起的，推动个体恢复机体内部平衡的唤醒状态称",
+      "options": [
+        { "key": "A", "value": "内驱力" },
+        { "key": "B", "value": "诱因" },
+        { "key": "C", "value": "情绪" },
+        { "key": "D", "value": "兴趣" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "动机产生的内在条件是",
+      "options": [
+        { "key": "A", "value": "感觉" },
+        { "key": "B", "value": "需要" },
+        { "key": "C", "value": "气质" },
+        { "key": "D", "value": "性格" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "按情绪状态可把情绪分为",
+      "options": [
+        { "key": "A", "value": "心境、激情、应激" },
+        { "key": "B", "value": "道德感、理智感和美感" },
+        { "key": "C", "value": "基本情绪和复合情绪" },
+        { "key": "D", "value": "快乐、愤怒、悲哀和恐惧" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "微弱，持久而具有弥漫性特点的情绪体验状态，通常叫",
+      "options": [
+        { "key": "A", "value": "应激" },
+        { "key": "B", "value": "情感" },
+        { "key": "C", "value": "激情" },
+        { "key": "D", "value": "心境" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 66,
+      "question": "心理过程包括",
+      "options": [
+        { "key": "A", "value": "能力、气质和性格" },
+        { "key": "B", "value": "认识、情感和意志" },
+        { "key": "C", "value": "知、情、意和能力" },
+        { "key": "D", "value": "感知觉、记忆、思维和动机" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "情绪和情感可以传递信息、沟通思想，说明情绪和情感具有什么样的功能",
+      "options": [
+        { "key": "A", "value": "适应" },
+        { "key": "B", "value": "信号" },
+        { "key": "C", "value": "组织" },
+        { "key": "D", "value": "动机" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "有爱就有恨，有喜就有悲，有紧张就有轻松，说明情绪和情感具有什么的特性",
+      "options": [
+        { "key": "A", "value": "两极对立" },
+        { "key": "B", "value": "不可调和" },
+        { "key": "C", "value": "相互关联" },
+        { "key": "D", "value": "物极必反" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "从生物进化的角度可以把情绪分为",
+      "options": [
+        { "key": "A", "value": "基本情绪和复合情绪" },
+        { "key": "B", "value": "生物情绪和社会情绪" },
+        { "key": "C", "value": "积极情绪和消极情绪" },
+        { "key": "D", "value": "情绪状态和高级情感" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "在出现意外事件或遇到危险情景时出现的高度紧张的情绪状态叫",
+      "options": [
+        { "key": "A", "value": "激情" },
+        { "key": "B", "value": "心境" },
+        { "key": "C", "value": "应激" },
+        { "key": "D", "value": "焦虑" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 71,
+      "question": "与易受暗示性和武断性相反的意志品质是",
+      "options": [
+        { "key": "A", "value": "坚韧性" },
+        { "key": "B", "value": "果断性" },
+        { "key": "C", "value": "自制性" },
+        { "key": "D", "value": "自觉性" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "“忧者见之而忧，喜者见之而喜”，说明什么对人有影响",
+      "options": [
+        { "key": "A", "value": "激情" },
+        { "key": "B", "value": "压力" },
+        { "key": "C", "value": "应激" },
+        { "key": "D", "value": "心境" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 73,
+      "question": "随波逐流，易受暗示的人，其意志品质缺乏什么",
+      "options": [
+        { "key": "A", "value": "自觉性" },
+        { "key": "B", "value": "果断性" },
+        { "key": "C", "value": "坚韧性" },
+        { "key": "D", "value": "自制性" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "石灰在暗处看起来也比放在亮处的煤块亮，这是知觉的",
+      "options": [
+        { "key": "A", "value": "整体性" },
+        { "key": "B", "value": "选择性" },
+        { "key": "C", "value": "恒常性" },
+        { "key": "D", "value": "理解性" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "感受性与感觉阈限之间的关系是",
+      "options": [
+        { "key": "A", "value": "常数关系" },
+        { "key": "B", "value": "对数关系" },
+        { "key": "C", "value": "正比关系" },
+        { "key": "D", "value": "反比关系" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 76,
+      "question": "视网膜视细胞层上的视觉神经细胞是",
+      "options": [
+        { "key": "A", "value": "感觉细胞和联络细胞" },
+        { "key": "B", "value": "锥体细胞和杆体细胞" },
+        { "key": "C", "value": "双极细胞和节细胞" },
+        { "key": "D", "value": "中央细胞和边缘细胞" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "神经系统是由什么组成的",
+      "options": [
+        { "key": "A", "value": "脊髓和脑" },
+        { "key": "B", "value": "外周神经系统和中枢神经系统" },
+        { "key": "C", "value": "周围神经系统、躯体神经系统和自主神经" },
+        { "key": "D", "value": "外周神经系统、脑干、间脑、小脑和端脑" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "在遇到鱼和熊掌不可兼得时所体验到的动机冲突属于",
+      "options": [
+        { "key": "A", "value": "双趋式冲突" },
+        { "key": "B", "value": "双避式冲突" },
+        { "key": "C", "value": "趋避式冲突" },
+        { "key": "D", "value": "双重趋避式冲突" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "格式塔心理学主张",
+      "options": [
+        { "key": "A", "value": "心理学应该研究心理在适应环境中的机能作用" },
+        { "key": "B", "value": "心理学的任务是探讨意识经验由什么元素构成" },
+        {
+          "key": "C",
+          "value": "心理学的任务就在于查明刺激与反应之间的规律性关系"
+        },
+        { "key": "D", "value": "从整体上来研究心理现象" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 80,
+      "question": "机能主义心理学的主要特点是",
+      "options": [
+        { "key": "A", "value": "强调心理学应该研究心理在适应环境中的机能作用" },
+        { "key": "B", "value": "认为心理学的任务是探讨意识经验由什么元素构成" },
+        {
+          "key": "C",
+          "value": "认为心理学的任务就在于查明刺激与反应之间的规律性关系"
+        },
+        { "key": "D", "value": "主张从整体上来研究心理现象" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "生理心理学研究的对象是",
+      "options": [
+        { "key": "A", "value": "构成心理的基本元素" },
+        { "key": "B", "value": "信息的输入、编码、转换、储存和提取的过程" },
+        { "key": "C", "value": "心理活动的生理基础和脑的机制" },
+        { "key": "D", "value": "心理在适应环境中的机能作用" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 82,
+      "question": "神经元是由什么组成的",
+      "options": [
+        { "key": "A", "value": "细胞体、细胞核和神经纤维" },
+        { "key": "B", "value": "细胞体、树突和轴突" },
+        { "key": "C", "value": "细胞、突起和纤维" },
+        { "key": "D", "value": "细胞核、突起" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "自主神经由什么组成",
+      "options": [
+        { "key": "A", "value": "躯体神经和植物神经" },
+        { "key": "B", "value": "交感神经和副交感神经" },
+        { "key": "C", "value": "31对脊神经" },
+        { "key": "D", "value": "脊髓和延脑" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "罗杰·斯佩里通过什么实验证明大脑两半球功能的不对称性",
+      "options": [
+        { "key": "A", "value": "割裂脑" },
+        { "key": "B", "value": "经典条件反射" },
+        { "key": "C", "value": "操作条件反射" },
+        { "key": "D", "value": "工具条件反射" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "按照刺激的来源，可把感觉分为",
+      "options": [
+        { "key": "A", "value": "视觉和听觉" },
+        { "key": "B", "value": "外部感觉和内部感觉" },
+        { "key": "C", "value": "运动觉、平衡觉和机体觉" },
+        { "key": "D", "value": "视觉、听觉、嗅觉、味觉和肤觉" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "感觉器官对适宜刺激的感觉能力叫",
+      "options": [
+        { "key": "A", "value": "绝对感觉阈限" },
+        { "key": "B", "value": "感受性" },
+        { "key": "C", "value": "感觉阈限" },
+        { "key": "D", "value": "最小可觉差" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "1860年法国医生布洛卡发现了",
+      "options": [
+        { "key": "A", "value": "运动性言语中枢" },
+        { "key": "B", "value": "听觉性言语中枢" },
+        { "key": "C", "value": "视觉性言语中枢" },
+        { "key": "D", "value": "书写性言语中枢" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "听觉的感受器是",
+      "options": [
+        { "key": "A", "value": "前庭器官" },
+        { "key": "B", "value": "听神经" },
+        { "key": "C", "value": "科蒂氏器官" },
+        { "key": "D", "value": "三个半规管和耳石" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 89,
+      "question": "一个声音由于同时起作用的其他声音的干扰使听觉阈限升高的现象叫",
+      "options": [
+        { "key": "A", "value": "听觉适应" },
+        { "key": "B", "value": "声音掩蔽" },
+        { "key": "C", "value": "听觉对比" },
+        { "key": "D", "value": "听觉疲劳" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "生理零度是指",
+      "options": [
+        { "key": "A", "value": "皮肤表面的温度" },
+        { "key": "B", "value": "37℃" },
+        { "key": "C", "value": "36.5℃" },
+        { "key": "D", "value": "正常的体温" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "内脏器官的活动处于正常状态时",
+      "options": [
+        { "key": "A", "value": "引不起内脏感觉" },
+        { "key": "B", "value": "引起不太强的内脏感觉" },
+        { "key": "C", "value": "引起节律性的内脏感觉" },
+        { "key": "D", "value": "引起忽强忽弱的内脏感觉" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "外界刺激停止作用后暂时保留一段时间的感觉形象叫",
+      "options": [
+        { "key": "A", "value": "对光适应" },
+        { "key": "B", "value": "感觉后像" },
+        { "key": "C", "value": "对暗适应" },
+        { "key": "D", "value": "感觉对比" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "联觉是指",
+      "options": [
+        { "key": "A", "value": "在外界刺激持续作用下感受性发生变化的现象" },
+        { "key": "B", "value": "外界刺激停止作用后，暂时保留的感觉印象" },
+        {
+          "key": "C",
+          "value": "不同刺激作用于同一感觉器官使感受性发生变化的现象"
+        },
+        {
+          "key": "D",
+          "value": "一个刺激不仅引起一种感觉，同时还引起另一种感觉的现象"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "生物节律给人提供了判断时间的信息，所以这种节律也可叫",
+      "options": [
+        { "key": "A", "value": "生活节律" },
+        { "key": "B", "value": "作息规律" },
+        { "key": "C", "value": "生物钟" },
+        { "key": "D", "value": "生物反馈" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 95,
+      "question": "记忆是",
+      "options": [
+        { "key": "A", "value": "过去的经验在头脑中的反映" },
+        { "key": "B", "value": "对客观事物直接的反映" },
+        { "key": "C", "value": "对客观事物间接的反映" },
+        { "key": "D", "value": "对客观事物概括的反映" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "一幅图画，把白色当作知觉的对象看起来是个花瓶，把黑色当作知觉的对象看起来是两个对着的人脸，这说明知觉具有",
+      "options": [
+        { "key": "A", "value": "整体性" },
+        { "key": "B", "value": "选择性" },
+        { "key": "C", "value": "恒常性" },
+        { "key": "D", "value": "理解性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "和一个人的愿望相联系并指向未来的想象叫",
+      "options": [
+        { "key": "A", "value": "幻想" },
+        { "key": "B", "value": "无意想象" },
+        { "key": "C", "value": "梦" },
+        { "key": "D", "value": "有意想象" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "心理活动或意识活动对一定对象的指向和集中是",
+      "options": [
+        { "key": "A", "value": "认识" },
+        { "key": "B", "value": "注意" },
+        { "key": "C", "value": "意志" },
+        { "key": "D", "value": "想象" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "在同一时间内把注意指向不同对象，同时从事几种不同的活动，这是",
+      "options": [
+        { "key": "A", "value": "注意的转移" },
+        { "key": "B", "value": "注意的分散" },
+        { "key": "C", "value": "注意的分配" },
+        { "key": "D", "value": "注意的动摇" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "情绪变化的外部表现模式叫",
+      "options": [
+        { "key": "A", "value": "激情" },
+        { "key": "B", "value": "表征" },
+        { "key": "C", "value": "应激" },
+        { "key": "D", "value": "表情" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 101,
+      "question": "下列说法中正确的是【多选题】",
+      "options": [
+        { "key": "A", "value": "认知是人认识外界事物的过程" },
+        { "key": "B", "value": "意志是需要克服困难和挫折的行为" },
+        { "key": "C", "value": "人格可以通过心理过程得到表现" },
+        { "key": "D", "value": "情感属于心理过程" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 102,
+      "question": "心理过程包括【多选题】",
+      "options": [
+        { "key": "A", "value": "意志过程" },
+        { "key": "B", "value": "认知过程" },
+        { "key": "C", "value": "注意过程" },
+        { "key": "D", "value": "情感过程" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 103,
+      "question": "神经元具有的功能【多选题】",
+      "options": [
+        { "key": "A", "value": "接受刺激" },
+        { "key": "B", "value": "传递信息" },
+        { "key": "C", "value": "放大信息" },
+        { "key": "D", "value": "缩小信息" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 104,
+      "question": "脑干包括【多选题】",
+      "options": [
+        { "key": "A", "value": "丘脑" },
+        { "key": "B", "value": "延脑" },
+        { "key": "C", "value": "脑桥" },
+        { "key": "D", "value": "中脑" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 105,
+      "question": "下列说法中正确的是【多选题】",
+      "options": [
+        { "key": "A", "value": "人耳对1000～4000赫兹的声波最敏感" },
+        { "key": "B", "value": "人耳对16～20000赫兹的声波最敏感" },
+        { "key": "C", "value": "老年人首先丧失的是对高频声波的听觉" },
+        { "key": "D", "value": "老年人首先丧失的是对低频声波的听觉" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 106,
+      "question": "关于色盲，正确的说法是【多选题】",
+      "options": [
+        { "key": "A", "value": "色盲大多数是遗传的原因造成的" },
+        { "key": "B", "value": "女性色盲比男性色盲多" },
+        { "key": "C", "value": "色盲患者一般也能“辨认”颜色" },
+        { "key": "D", "value": "男性色盲比女性色盲多" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 107,
+      "question": "关于时间知觉，正确的说法是【多选题】",
+      "options": [
+        { "key": "A", "value": "视觉比触觉估计时间的准确度高" },
+        { "key": "B", "value": "听觉比触觉估计时间准确度高" },
+        { "key": "C", "value": "生物钟是人们估计时间的重要依据" },
+        { "key": "D", "value": "个体的情绪状态会影响时间知觉" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 108,
+      "question": "错觉的特点包括【多选题】",
+      "options": [
+        { "key": "A", "value": "是对客观事物的歪曲知觉" },
+        { "key": "B", "value": "错觉所产生的歪曲带有固定的倾向" },
+        { "key": "C", "value": "只要知道错觉产生的原因，错觉是可以克服的" },
+        { "key": "D", "value": "只要具备产生错觉的条件，错觉就一定会发生" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 109,
+      "question": "绿叶陪衬下的红花看起来更红了，这是【多选题】",
+      "options": [
+        { "key": "A", "value": "同时对比现象" },
+        { "key": "B", "value": "相继对比现象" },
+        { "key": "C", "value": "彩色对比现象" },
+        { "key": "D", "value": "感觉适应现象" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 110,
+      "question": "下列说法中正确的是【多选题】",
+      "options": [
+        { "key": "A", "value": "痛觉反映一个人意志特点" },
+        { "key": "B", "value": "痛觉对机体具有保护作用" },
+        { "key": "C", "value": "痛觉反映了一个人的灵敏程度" },
+        { "key": "D", "value": "痛觉比较容易适应" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 111,
+      "question": "由于不同的感觉器官之间的相互作用而形成的错觉包括【多选题】",
+      "options": [
+        { "key": "A", "value": "线条长短的错觉" },
+        { "key": "B", "value": "视听错觉" },
+        { "key": "C", "value": "面积大小的错觉" },
+        { "key": "D", "value": "形重错觉" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 112,
+      "question": "人估计时间的依据包括【多选题】",
+      "options": [
+        { "key": "A", "value": "心理活动的周期性变化" },
+        { "key": "B", "value": "各种计时工具" },
+        { "key": "C", "value": "生理活动的周期性变化" },
+        { "key": "D", "value": "物理学定律" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 113,
+      "question": "声波的特性包括【多选题】",
+      "options": [
+        { "key": "A", "value": "响度" },
+        { "key": "B", "value": "音色" },
+        { "key": "C", "value": "波形" },
+        { "key": "D", "value": "频率" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 114,
+      "question": "彩色的特性包括【多选题】",
+      "options": [
+        { "key": "A", "value": "饱和度" },
+        { "key": "B", "value": "明度" },
+        { "key": "C", "value": "照度" },
+        { "key": "D", "value": "色调" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 115,
+      "question": "声音的性质包括【多选题】",
+      "options": [
+        { "key": "A", "value": "饱和度" },
+        { "key": "B", "value": "音调" },
+        { "key": "C", "value": "音色" },
+        { "key": "D", "value": "频率" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 116,
+      "question": "听觉具有音调、响度和音色三种特性，这些主要受声波的振幅、波形和频率等物理学特性影响。下列匹配中错误的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "响度-振幅" },
+        { "key": "B", "value": "音色-波形" },
+        { "key": "C", "value": "音色-频率" },
+        { "key": "D", "value": "响度-频率" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 117,
+      "question": "关于痛觉，正确的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "最难适应的感觉" },
+        { "key": "B", "value": "只属于外部感觉" },
+        { "key": "C", "value": "只属于内部感觉" },
+        { "key": "D", "value": "具有机体保护的作用" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 118,
+      "question": "遗忘是指【多选题】",
+      "options": [
+        { "key": "A", "value": "从大脑中提取知识经验的过程" },
+        { "key": "B", "value": "对识记过的材料不能回忆的现象" },
+        { "key": "C", "value": "对识记过的材料不能再认的现象" },
+        { "key": "D", "value": "过去的经验在头脑中的反映" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 119,
+      "question": "长时记忆遗忘的主要原因包括【多选题】",
+      "options": [
+        { "key": "A", "value": "自然衰退" },
+        { "key": "B", "value": "编码错误" },
+        { "key": "C", "value": "前摄抑制" },
+        { "key": "D", "value": "倒摄抑制" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 120,
+      "question": "默写古诗词属于什么过程【多选题】",
+      "options": [
+        { "key": "A", "value": "回忆" },
+        { "key": "B", "value": "再现" },
+        { "key": "C", "value": "再认" },
+        { "key": "D", "value": "识记" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 121,
+      "question": "记忆是【多选题】",
+      "options": [
+        { "key": "A", "value": "是人类智慧的根源" },
+        { "key": "B", "value": "人脑对输入的信息进行编码、储存和提取的过程" },
+        { "key": "C", "value": "过去的经验在头脑中的反映" },
+        { "key": "D", "value": "人脑对客观事物间接的、概括的反映" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 122,
+      "question": "表象的作用包括【多选题】",
+      "options": [
+        { "key": "A", "value": "积累理性知识" },
+        { "key": "B", "value": "从感知向思维过渡的桥梁" },
+        { "key": "C", "value": "为想象提供素材" },
+        { "key": "D", "value": "创造新形象" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 123,
+      "question": "遗忘的主要原因包括【多选题】",
+      "options": [
+        { "key": "A", "value": "信息错构" },
+        { "key": "B", "value": "信息干扰" },
+        { "key": "C", "value": "自然衰退" },
+        { "key": "D", "value": "意识抑制" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 124,
+      "question": "思维最主要的特征包括【多选题】",
+      "options": [
+        { "key": "A", "value": "间接性" },
+        { "key": "B", "value": "可操作性" },
+        { "key": "C", "value": "概括性" },
+        { "key": "D", "value": "抽象性" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 125,
+      "question": "根据思维的形态所划分的思维的种类包括【多选题】",
+      "options": [
+        { "key": "A", "value": "动作思维" },
+        { "key": "B", "value": "形象思维" },
+        { "key": "C", "value": "抽象思维" },
+        { "key": "D", "value": "创造性思维" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 126,
+      "question": "关于概念，正确的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "是以词来标示和记载的" },
+        { "key": "B", "value": "是思维活动借以进行的单元" },
+        { "key": "C", "value": "是人脑对客观事物本质属性的反映" },
+        { "key": "D", "value": "是对客观事物的整体反映" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 127,
+      "question": "关于概念，正确的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "个体掌握概念的层次反映其思维发展水平" },
+        { "key": "B", "value": "人工概念是人为制造的概念" },
+        { "key": "C", "value": "概念的内涵越深，外延越窄" },
+        { "key": "D", "value": "概念的内涵越浅，外延越窄" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 128,
+      "question": "影响问题解决的主要原因包括【多选题】",
+      "options": [
+        { "key": "A", "value": "迁移作用" },
+        { "key": "B", "value": "原型启发作用" },
+        { "key": "C", "value": "定势作用" },
+        { "key": "D", "value": "动机作用" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 129,
+      "question": "下列说法中正确的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "语言是一种社会现象" },
+        { "key": "B", "value": "言语是一种心理现象" },
+        { "key": "C", "value": "言语是人们进行交流的工具" },
+        { "key": "D", "value": "言语要借助语言来实现" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 130,
+      "question": "关于言语，正确的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "言语是人们运用语言交流思想、进行交际的过程" },
+        { "key": "B", "value": "言语是一种心理现象" },
+        { "key": "C", "value": "言语活动离不开语言" },
+        { "key": "D", "value": "言语是一种社会现象" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 131,
+      "question": "“一题多解”是要培养学生的【多选题】",
+      "options": [
+        { "key": "A", "value": "逻辑思维" },
+        { "key": "B", "value": "求异思维" },
+        { "key": "C", "value": "发散思维" },
+        { "key": "D", "value": "辐合思维" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 132,
+      "question": "关于定势的描述，正确的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "是一种心理准备状态" },
+        { "key": "B", "value": "有时会促进问题解决" },
+        { "key": "C", "value": "有时会干扰问题解决" },
+        { "key": "D", "value": "是已有的知识和经验" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 133,
+      "question": "关于意识，正确的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "是人和动物心理的根本区别" },
+        { "key": "B", "value": "是自然进化的最高产物" },
+        { "key": "C", "value": "是物质发展最高阶段的产物" },
+        { "key": "D", "value": "是在觉醒状态下的觉知" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 134,
+      "question": "注意分配的条件是：同时进行的几种活动【多选题】",
+      "options": [
+        { "key": "A", "value": "必须其中有非常熟练的" },
+        { "key": "B", "value": "必须都是非常熟练的" },
+        { "key": "C", "value": "不能有内在的联系" },
+        { "key": "D", "value": "必须有内在的联系" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 135,
+      "question": "容易引起无意注意的刺激包括【多选题】",
+      "options": [
+        { "key": "A", "value": "强度大的刺激" },
+        { "key": "B", "value": "突然出现的刺激" },
+        { "key": "C", "value": "固定不变的物体" },
+        { "key": "D", "value": "新颖的刺激" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 136,
+      "question": "注意的特点包括【多选题】",
+      "options": [
+        { "key": "A", "value": "指向性" },
+        { "key": "B", "value": "目的性" },
+        { "key": "C", "value": "集中性" },
+        { "key": "D", "value": "持久性" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 137,
+      "question": "下列说法正确的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "动机是在需要的基础上产生的" },
+        { "key": "B", "value": "动机和效果一定是一致的" },
+        { "key": "C", "value": "动机是人活动的内部动力" },
+        { "key": "D", "value": "不同的活动可以由相同的动机引起" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 138,
+      "question": "按照马斯洛的理论，免于恐惧的需要属于【多选题】",
+      "options": [
+        { "key": "A", "value": "生理需要" },
+        { "key": "B", "value": "生长性需要" },
+        { "key": "C", "value": "安全的需要" },
+        { "key": "D", "value": "缺失性需要" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 139,
+      "question": "性的需要属于【多选题】",
+      "options": [
+        { "key": "A", "value": "自然需要" },
+        { "key": "B", "value": "生理需要" },
+        { "key": "C", "value": "社会需要" },
+        { "key": "D", "value": "获得性需要" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 140,
+      "question": "符合马斯洛需要层次理论的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "层次越高的需要出现越晚" },
+        { "key": "B", "value": "层次越低的需要出现越晚" },
+        { "key": "C", "value": "层次越低的需要力量越强" },
+        { "key": "D", "value": "层次越高的需要力量越强" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 141,
+      "question": "以下正确的说法包括【多选题】",
+      "options": [
+        { "key": "A", "value": "人和动物的自然需要是一样的" },
+        { "key": "B", "value": "自然需要是由生理的不平衡引起的" },
+        { "key": "C", "value": "交往的需要属于获得性需要" },
+        { "key": "D", "value": "物质需要和精神需要之间有密切的关系" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 142,
+      "question": "兴趣的品质包括【多选题】",
+      "options": [
+        { "key": "A", "value": "倾向性" },
+        { "key": "B", "value": "广阔性" },
+        { "key": "C", "value": "持久性" },
+        { "key": "D", "value": "效能" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 143,
+      "question": "需要【多选题】",
+      "options": [
+        { "key": "A", "value": "是有机体内部不平衡状态" },
+        { "key": "B", "value": "是人对客观外界事物的态度的体验" },
+        { "key": "C", "value": "表现为有机体对内外环境条件的欲求" },
+        { "key": "D", "value": "是激发并维持个体活动的内部动力" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 144,
+      "question": "影响动机产生的因素包括【多选题】",
+      "options": [
+        { "key": "A", "value": "内驱力" },
+        { "key": "B", "value": "诱因" },
+        { "key": "C", "value": "内归因" },
+        { "key": "D", "value": "情绪" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 145,
+      "question": "意志的品质有【多选题】",
+      "options": [
+        { "key": "A", "value": "自觉性" },
+        { "key": "B", "value": "目的性" },
+        { "key": "C", "value": "坚韧性" },
+        { "key": "D", "value": "自制性" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 146,
+      "question": "下面活动属于意志行动的包括【多选题】",
+      "options": [
+        { "key": "A", "value": "散步吹口哨" },
+        { "key": "B", "value": "背诵古文" },
+        { "key": "C", "value": "摇头晃脑" },
+        { "key": "D", "value": "小学生登山" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 147,
+      "question": "心境的特点包括【多选题】",
+      "options": [
+        { "key": "A", "value": "微弱性" },
+        { "key": "B", "value": "持久性" },
+        { "key": "C", "value": "弥漫性" },
+        { "key": "D", "value": "破坏性" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 148,
+      "question": "大脑的外层叫【多选题】",
+      "options": [
+        { "key": "A", "value": "大脑灰质" },
+        { "key": "B", "value": "大脑白质" },
+        { "key": "C", "value": "大脑皮质" },
+        { "key": "D", "value": "大脑皮层" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 149,
+      "question": "下列选项中属于无条件反射的是【多选题】",
+      "options": [
+        { "key": "A", "value": "吃东西流口水" },
+        { "key": "B", "value": "强光照射下瞳孔收缩" },
+        { "key": "C", "value": "看见酸梅就流口水" },
+        { "key": "D", "value": "一朝被蛇咬，十年怕井绳" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 150,
+      "question": "感觉阈限是一个范围【多选题】",
+      "options": [
+        { "key": "A", "value": "能够感觉到的最小刺激强度叫下限" },
+        { "key": "B", "value": "能够引起中等强度感觉的刺激强度叫适宜刺激" },
+        { "key": "C", "value": "能够忍受的刺激的最大强度叫上限" },
+        { "key": "D", "value": "下限和上限之间的刺激都是可以引起感觉的范围" }
+      ],
+      "answer": "ACD"
+    }
+  ]
+}
