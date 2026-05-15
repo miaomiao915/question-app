@@ -23,11 +23,14 @@ jobs:
       - name: Build Web App
         run: npm run build
 
+      - name: Verify dist folder
+        run: ls -la dist
+
       - name: Install Capacitor dependencies
         run: npm install @capacitor/core @capacitor/cli @capacitor/ios
 
       - name: Sync to iOS
-        run: npx cap sync ios
+        run: npx cap sync ios --dir dist
 
       - name: Build Xcode Project
         run: |
