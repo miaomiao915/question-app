@@ -29,6 +29,11 @@ jobs:
       - name: Install Capacitor dependencies
         run: npm install @capacitor/core @capacitor/cli @capacitor/ios
 
+      - name: Add iOS platform
+        run: |
+          rm -rf ios
+          npx cap add ios
+
       - name: Sync to iOS
         run: npx cap sync ios
 
