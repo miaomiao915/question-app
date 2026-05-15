@@ -9,7 +9,7 @@ ios/App/build/
 ios/App/output/
 
 # Capacitor config
-capacitor.config.ts
+# capacitor.config.ts
 
 # Editor
 .DS_Store
