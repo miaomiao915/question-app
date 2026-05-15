@@ -23,9 +23,8 @@ jobs:
       - name: Build Web App
         run: npm run build
 
-      - name: Add Capacitor iOS
-        run: |
-          npm install @capacitor/core @capacitor/cli @capacitor/ios
+      - name: Install Capacitor dependencies
+        run: npm install @capacitor/core @capacitor/cli @capacitor/ios
 
       - name: Sync to iOS
         run: npx cap sync ios
