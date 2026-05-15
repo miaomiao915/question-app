@@ -43,15 +43,14 @@ jobs:
       - name: Build Xcode Project
         run: |
           cd ios/App
-          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release -archivePath build/App.xcarchive archive
+          xcodebuild -project App.xcodeproj -scheme App -configuration Release -archivePath build/App.xcarchive archive CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO
 
-      - name: Export IPA
+      - name: Create IPA
         run: |
-          cd ios/App
-          xcodebuild -exportArchive \
-            -archivePath build/App.xcarchive \
-            -exportOptionsPlist ExportOptions.plist \
-            -exportPath output
+          mkdir -p ios/App/output/Payload
+          cp -r ios/App/build/App.xcarchive/Products/Applications/App.app ios/App/output/Payload/
+          cd ios/App/output
+          zip -r QuestionApp.ipa Payload
 
       - name: Upload IPA
         uses: actions/upload-artifact@v4
