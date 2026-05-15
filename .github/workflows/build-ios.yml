@@ -34,6 +34,9 @@ jobs:
           rm -rf ios
           npx cap add ios
 
+      - name: Check iOS structure
+        run: find ios -name "*.xcworkspace" -o -name "*.xcodeproj"
+
       - name: Sync to iOS
         run: npx cap sync ios
 
