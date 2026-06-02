@@ -244,15 +244,14 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="min-h-screen pt-80px pb-20">
+  <div class="min-h-screen pt-100px pb-20">
     <!-- 固定顶部导航栏 -->
     <div
-      class="fixed top-0 left-0 right-0 h-50px bg-white border-b px-4 pt-30px flex items-center justify-between z-10"
+      class="fixed top-0 left-0 right-0 h-50px bg-white border-b px-4 pt-50px flex items-center justify-between z-10"
     >
       <ElButton @click="router.push('/')">返回</ElButton>
       <ElButton type="warning" @click="restart">重新开始</ElButton>
       <ElButton type="primary" @click="showAnswers">答案版</ElButton>
-
     </div>
     <ElCard v-if="examData" shadow="hover">
       <template #header>
@@ -304,10 +303,16 @@ onMounted(() => {
           </div>
           <div mt-3 flex justify-between items-center gap-2>
             <div min-w-100px>
-              <ElTag v-if="results[q.id] === true" :type="isAnswerMode ? 'success' : 'success'" size="small"
-                >{{ isAnswerMode ? '正确答案' : '正确' }}</ElTag
+              <ElTag
+                v-if="results[q.id] === true"
+                :type="isAnswerMode ? 'success' : 'success'"
+                size="small"
+                >{{ isAnswerMode ? "正确答案" : "正确" }}</ElTag
               >
-              <ElTag v-if="results[q.id] === false && !isAnswerMode" type="danger" size="small"
+              <ElTag
+                v-if="results[q.id] === false && !isAnswerMode"
+                type="danger"
+                size="small"
                 >错误 - 答案: {{ q.answer }}</ElTag
               >
             </div>
