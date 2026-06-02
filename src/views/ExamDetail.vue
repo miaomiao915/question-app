@@ -218,10 +218,10 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="min-h-screen pt-50px pb-20">
+  <div class="min-h-screen pt-80px pb-20">
     <!-- 固定顶部导航栏 -->
     <div
-      class="fixed top-0 left-0 right-0 h-12 bg-white border-b px-4 flex items-center justify-between z-10"
+      class="fixed top-0 left-0 right-0 h-50px bg-white border-b px-4 pt-30px flex items-center justify-between z-10"
     >
       <ElButton size="small" @click="router.push('/')">返回</ElButton>
       <ElButton size="small" type="warning" @click="restart">重新开始</ElButton>
