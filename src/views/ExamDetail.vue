@@ -32,6 +32,7 @@ const selectedAnswers = ref<Record<number, string[]>>({}); // 用户选择的答
 const results = ref<Record<number, boolean>>({}); //做题结果 {题目ID: 对错}
 const latestQuestionId = ref<number | null>(null); // 最新操作的题目ID
 const examName = ref(""); // 试卷名称
+const isAnswerMode = ref(false); // 是否为答案版模式
 
 // 悬浮球拖动相关
 const ballRef = ref<HTMLElement | null>(null);
@@ -205,10 +206,35 @@ const handleSelect = (qid: number, key: string) => {
 
 // 重新开始(清除缓存)
 const restart = () => {
+  isAnswerMode.value = false;
   localStorage.removeItem(getStorageKey(examName.value));
   selectedAnswers.value = {};
   results.value = {};
   latestQuestionId.value = null;
+};
+
+// 切换到答案版模式
+const showAnswers = () => {
+  isAnswerMode.value = true;
+  if (!examData.value) return;
+
+  // 遍历所有题目，将用户选择重置为正确答案
+  examData.value.questions.forEach((q) => {
+    const correctAnswer = q.answer.split("");
+
+    // 如果之前已做过的题目，重置为正确答案
+    if (selectedAnswers.value[q.id] && selectedAnswers.value[q.id].length > 0) {
+      selectedAnswers.value[q.id] = [...correctAnswer];
+    } else {
+      // 没有做的题目，也设置为正确答案
+      selectedAnswers.value[q.id] = [...correctAnswer];
+    }
+
+    // 设置结果为正确
+    results.value[q.id] = true;
+  });
+
+  saveToStorage();
 };
 
 // 组件挂载时加载数据
@@ -223,8 +249,10 @@ onMounted(() => {
     <div
       class="fixed top-0 left-0 right-0 h-50px bg-white border-b px-4 pt-30px flex items-center justify-between z-10"
     >
-      <ElButton size="small" @click="router.push('/')">返回</ElButton>
-      <ElButton size="small" type="warning" @click="restart">重新开始</ElButton>
+      <ElButton @click="router.push('/')">返回</ElButton>
+      <ElButton type="warning" @click="restart">重新开始</ElButton>
+      <ElButton type="primary" @click="showAnswers">答案版</ElButton>
+
     </div>
     <ElCard v-if="examData" shadow="hover">
       <template #header>
@@ -264,7 +292,9 @@ onMounted(() => {
               cursor-pointer
               :class="
                 (selectedAnswers[q.id] || []).includes(opt.key)
-                  ? 'bg-blue-100 border-blue-500'
+                  ? isAnswerMode
+                    ? 'bg-green-100 border-green-500'
+                    : 'bg-blue-100 border-blue-500'
                   : 'hover:bg-gray-50'
               "
               @click="handleSelect(q.id, opt.key)"
@@ -274,10 +304,10 @@ onMounted(() => {
           </div>
           <div mt-3 flex justify-between items-center gap-2>
             <div min-w-100px>
-              <ElTag v-if="results[q.id] === true" type="success" size="small"
-                >正确</ElTag
+              <ElTag v-if="results[q.id] === true" :type="isAnswerMode ? 'success' : 'success'" size="small"
+                >{{ isAnswerMode ? '正确答案' : '正确' }}</ElTag
               >
-              <ElTag v-if="results[q.id] === false" type="danger" size="small"
+              <ElTag v-if="results[q.id] === false && !isAnswerMode" type="danger" size="small"
                 >错误 - 答案: {{ q.answer }}</ElTag
               >
             </div>

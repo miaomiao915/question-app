@@ -1,0 +1,683 @@
+{
+  "id": 4,
+  "title": "人格心理学单科作业",
+  "subject": "心理学",
+  "total": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "没有两个人能对同一事物做出相同的反应，反映的是人格的",
+      "options": [
+        { "key": "A", "value": "稳定性" },
+        { "key": "B", "value": "独特性" },
+        { "key": "C", "value": "统合性" },
+        { "key": "D", "value": "功能性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "人格决定一个人的生活方式，甚至有时会决定一个人的命运，反映的是人格的",
+      "options": [
+        { "key": "A", "value": "稳定性" },
+        { "key": "B", "value": "独特性" },
+        { "key": "C", "value": "统合性" },
+        { "key": "D", "value": "功能性" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "人格理论研究的流派众多，每个流派都在帮助我们理解（ ）的问题上提供了有价值的帮助。",
+      "options": [
+        { "key": "A", "value": "我是谁" },
+        { "key": "B", "value": "自我价值" },
+        { "key": "C", "value": "安全感" },
+        { "key": "D", "value": "自我成长" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "个体将不被社会所接受的冲动转化为社会赞许的行为，其所运营的防御机制是",
+      "options": [
+        { "key": "A", "value": "合理化" },
+        { "key": "B", "value": "升华" },
+        { "key": "C", "value": "反向形成" },
+        { "key": "D", "value": "投射" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "霍尼所说的（ ）是指个体在此时此地所表现出来的一切存在的总和，是别人所能观察到的客观存在，独立于个体的自我概念和知觉。",
+      "options": [
+        { "key": "A", "value": "真实自我" },
+        { "key": "B", "value": "理想自我" },
+        { "key": "C", "value": "现实自我" },
+        { "key": "D", "value": "概念自我" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "根据霍尼的理论，在（ ）的控制下，个体会产生很多不切实际的期望。",
+      "options": [
+        { "key": "A", "value": "真实自我" },
+        { "key": "B", "value": "理想自我" },
+        { "key": "C", "value": "现实自我" },
+        { "key": "D", "value": "期望自我" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "在荣格的意识三层次理论中，处于最深层的是（ ）。",
+      "options": [
+        { "key": "A", "value": "本我" },
+        { "key": "B", "value": "个体潜意识" },
+        { "key": "C", "value": "自我" },
+        { "key": "D", "value": "集体潜意识" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "阿德勒认为，很少受到父母关注的儿童在长大后容易变得（ ）。",
+      "options": [
+        { "key": "A", "value": "羞怯自卑" },
+        { "key": "B", "value": "冷漠多疑" },
+        { "key": "C", "value": "孤独悲观" },
+        { "key": "D", "value": "被动焦虑" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "根据荣格的理论，（ ）是人格的核心，是有条理的、统合的人格原型。",
+      "options": [
+        { "key": "A", "value": "面具" },
+        { "key": "B", "value": "意识" },
+        { "key": "C", "value": "自性" },
+        { "key": "D", "value": "阴影" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "自卑与心理补偿是（ ）的观点",
+      "options": [
+        { "key": "A", "value": "沙利文" },
+        { "key": "B", "value": "荣格" },
+        { "key": "C", "value": "阿德勒" },
+        { "key": "D", "value": "霍尼" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "根据艾里克森的观点，儿童早期的发展任务是获得主动感，克服（ ）。",
+      "options": [
+        { "key": "A", "value": "内疚感" },
+        { "key": "B", "value": "自卑感" },
+        { "key": "C", "value": "孤独感" },
+        { "key": "D", "value": "停滞感" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "根据卡特尔的理论，在根源特质中，（ ）是由遗传决定的特性，决定个体对情境做出反应的速度、能量、脾气等。",
+      "options": [
+        { "key": "A", "value": "能力特质" },
+        { "key": "B", "value": "气质特质" },
+        { "key": "C", "value": "成就特质" },
+        { "key": "D", "value": "动力特质" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "奥尔波特把人格特质分为两类，即（ ）。",
+      "options": [
+        { "key": "A", "value": "共同特质和个别特质" },
+        { "key": "B", "value": "共同特质和个人特质" },
+        { "key": "C", "value": "表面特质和根源特质" },
+        { "key": "D", "value": "表面特质和中心特质" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "人格五因素模型中，开放性得分高者的特征是（ ）。",
+      "options": [
+        { "key": "A", "value": "注重合作" },
+        { "key": "B", "value": "乐观的态度" },
+        { "key": "C", "value": "为人亲和" },
+        { "key": "D", "value": "独立思考" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "人格特质理论的创始人是（ ）。",
+      "options": [
+        { "key": "A", "value": "科斯塔" },
+        { "key": "B", "value": "G.W.奥尔波特" },
+        { "key": "C", "value": "卡特尔" },
+        { "key": "D", "value": "F.H.奥尔波特" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "抑制型儿童在新环境中表现出退缩的反应模式，心理学家称之为（ ）。",
+      "options": [
+        { "key": "A", "value": "素质焦虑" },
+        { "key": "B", "value": "存在焦虑" },
+        { "key": "C", "value": "情境焦虑" },
+        { "key": "D", "value": "新异焦虑" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "在人格适应方面，罗杰斯认为一个心理健康的人应该具有（ ）。",
+      "options": [
+        { "key": "A", "value": "自我一致性" },
+        { "key": "B", "value": "个人成长性" },
+        { "key": "C", "value": "自我学习性" },
+        { "key": "D", "value": "协调发展性" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "个体在感知信息后会形成心理表征，表征通常是以（ ）的方式存在。",
+      "options": [
+        { "key": "A", "value": "图片" },
+        { "key": "B", "value": "图式" },
+        { "key": "C", "value": "符号" },
+        { "key": "D", "value": "概念" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "个人建构论认为，人格差异主要来自于（ ）。",
+      "options": [
+        { "key": "A", "value": "个体解释世界的不同方式" },
+        { "key": "B", "value": "个体的知觉风格" },
+        { "key": "C", "value": "个体识别世界的不同方式" },
+        { "key": "D", "value": "个体的表征方式" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "认知心理学家对\"原型\"进行研究，发现人们利用原型，可以（ ）。",
+      "options": [
+        { "key": "A", "value": "总结事物的重要特征" },
+        { "key": "B", "value": "组织关系复杂的任务" },
+        { "key": "C", "value": "快速的完成判断" },
+        { "key": "D", "value": "优化心理活动的记载方式" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "个体暂时的、偶然表现出来的心理与行为不能成为人格的组成部分，说明人格具有（ ）的特征。",
+      "options": [
+        { "key": "A", "value": "稳定性" },
+        { "key": "B", "value": "独特性" },
+        { "key": "C", "value": "统合性" },
+        { "key": "D", "value": "功能性" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "个体人格中不同的元素是依照一定的秩序和规则有机结合起来形成运行系统，不能被拆散为各个部分，这说明人格具有（ ）。",
+      "options": [
+        { "key": "A", "value": "稳定性" },
+        { "key": "B", "value": "独特性" },
+        { "key": "C", "value": "统合性" },
+        { "key": "D", "value": "功能性" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "阿德勒认为如果父母给予孩子过多的关注，甚至溺爱，剥夺了孩子的独立性，会引起更强烈的（ ）。",
+      "options": [
+        { "key": "A", "value": "独立感" },
+        { "key": "B", "value": "自卑感" },
+        { "key": "C", "value": "自尊感" },
+        { "key": "D", "value": "羞愧感" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "霍尼认为，只要环境适宜，个体的（ ）就能发展为健全的人格。",
+      "options": [
+        { "key": "A", "value": "现实自我" },
+        { "key": "B", "value": "客体自我" },
+        { "key": "C", "value": "理想自我" },
+        { "key": "D", "value": "真实自我" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "根据荣格的潜意识理论，以自我为中心，以适应环境为主要功能是（ ）。",
+      "options": [
+        { "key": "A", "value": "意识" },
+        { "key": "B", "value": "个体潜意识" },
+        { "key": "C", "value": "潜意识" },
+        { "key": "D", "value": "集体潜意识" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "艾里克森认为，个体只有建立了（ ）才能获得健康而完整的人格。",
+      "options": [
+        { "key": "A", "value": "自我价值感" },
+        { "key": "B", "value": "自我独立性" },
+        { "key": "C", "value": "自我同一性" },
+        { "key": "D", "value": "自我完整性" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "霍尼认为个体从出生就会处于不安全的状态中，感觉自己渺小又无力。这种无助、孤独和不安的恐惧就是（ ）。",
+      "options": [
+        { "key": "A", "value": "存在焦虑" },
+        { "key": "B", "value": "神经性焦虑" },
+        { "key": "C", "value": "基本焦虑" },
+        { "key": "D", "value": "客体性焦虑" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "沙利文认为人格动力源于（ ）。",
+      "options": [
+        { "key": "A", "value": "自我寻求" },
+        { "key": "B", "value": "亲密关系寻求" },
+        { "key": "C", "value": "安全感寻求" },
+        { "key": "D", "value": "自卑与心理补偿" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "通过创造性的爱和有意义的工作来实现积极的自由，是（ ）的观点。",
+      "options": [
+        { "key": "A", "value": "沙利文" },
+        { "key": "B", "value": "霍尼" },
+        { "key": "C", "value": "阿德勒" },
+        { "key": "D", "value": "弗洛姆" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "奥尔波特认为，个人特质中决定一个人的一类行为、能够代表一个人的主要行为倾向的特质是（ ）。",
+      "options": [
+        { "key": "A", "value": "首要特质" },
+        { "key": "B", "value": "根源特质" },
+        { "key": "C", "value": "中心特质" },
+        { "key": "D", "value": "次要特质" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "奥尔波特认为，一个人最典型、最具概括性、在人格结构中处于支配地位、影响个体各方面行为的特质是（ ）。",
+      "options": [
+        { "key": "A", "value": "首要特质" },
+        { "key": "B", "value": "根源特质" },
+        { "key": "C", "value": "中心特质" },
+        { "key": "D", "value": "次要特质" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "卡特尔提出，在根源特质中能够决定个体如何有效完成预定目标的特质是（ ）。",
+      "options": [
+        { "key": "A", "value": "气质特质" },
+        { "key": "B", "value": "首要特质" },
+        { "key": "C", "value": "动力特质" },
+        { "key": "D", "value": "能力特质" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "人格五因素模型中，神经质得分低者的特征是（ ）。",
+      "options": [
+        { "key": "A", "value": "情绪容易大幅波动" },
+        { "key": "B", "value": "常体验到消极情绪" },
+        { "key": "C", "value": "容易产生心理压力" },
+        { "key": "D", "value": "不容易产生极端情绪" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "人格五因素模型中，（ ）是指人们心理活动的强度。",
+      "options": [
+        { "key": "A", "value": "神经质" },
+        { "key": "B", "value": "开放性" },
+        { "key": "C", "value": "外倾性" },
+        { "key": "D", "value": "尽责性" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "人格的信息加工理论中，（ ）是指在某一情境中一系列被认为适当或合乎规定的行为。",
+      "options": [
+        { "key": "A", "value": "原型" },
+        { "key": "B", "value": "脚本" },
+        { "key": "C", "value": "定势" },
+        { "key": "D", "value": "图式" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "分析性加工方式的人倾向于观察细节，整体性加工方式的人倾向于看整体而忽略细节，人格认知流派认为这是个体的（ ）差异造成的。",
+      "options": [
+        { "key": "A", "value": "知觉风格" },
+        { "key": "B", "value": "解释和归因" },
+        { "key": "C", "value": "心理表征" },
+        { "key": "D", "value": "目标和预期" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "荣格的人格理论中（ ）是指个体依据社会习俗和职业要求，在公共情境中所表现出来的一种公开人格。",
+      "options": [
+        { "key": "A", "value": "阴影" },
+        { "key": "B", "value": "自性" },
+        { "key": "C", "value": "面具" },
+        { "key": "D", "value": "超我" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "霍尼的自我理论中，（ ）是指个体在此时此地所表现出来的一切存在的总和。",
+      "options": [
+        { "key": "A", "value": "现实自我" },
+        { "key": "B", "value": "真实自我" },
+        { "key": "C", "value": "理想自我" },
+        { "key": "D", "value": "镜像自我" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "荣格的理论中，阴影是（ ）中的负面特征。",
+      "options": [
+        { "key": "A", "value": "意识" },
+        { "key": "B", "value": "个人潜意识" },
+        { "key": "C", "value": "前意识" },
+        { "key": "D", "value": "集体潜意识" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "\"逃避自由\"是（ ）人格适应理论的观点。",
+      "options": [
+        { "key": "A", "value": "荣格" },
+        { "key": "B", "value": "弗洛姆" },
+        { "key": "C", "value": "霍尼" },
+        { "key": "D", "value": "沙利文" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "人格的特性包括",
+      "options": [
+        { "key": "A", "value": "独特性" },
+        { "key": "B", "value": "统合性" },
+        { "key": "C", "value": "稳定性" },
+        { "key": "D", "value": "功能性" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 42,
+      "question": "人格的独特性包含的两层含义是指",
+      "options": [
+        { "key": "A", "value": "统合性" },
+        { "key": "B", "value": "典型性" },
+        { "key": "C", "value": "功能性" },
+        { "key": "D", "value": "差异性" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 43,
+      "question": "以下关于人格的描述，正确的包括",
+      "options": [
+        {
+          "key": "A",
+          "value": "人格的统合性体现了人格的组织功能、匹配功能和健康功能"
+        },
+        {
+          "key": "B",
+          "value": "人格决定一个人的生活方式，甚至有时会决定一个人的命运"
+        },
+        {
+          "key": "C",
+          "value": "个体经常表现出来的、稳定的及偶然表现出来的心理与行为特点都可以成为其人格特征"
+        },
+        {
+          "key": "D",
+          "value": "人格的内在的统一性遭到破坏，就会产生心理冲突，出现各种适应困难"
+        }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 44,
+      "question": "新精神分析学派的心理学家霍尼将自我分为（ ）。",
+      "options": [
+        { "key": "A", "value": "期望自我" },
+        { "key": "B", "value": "理想自我" },
+        { "key": "C", "value": "真实自我" },
+        { "key": "D", "value": "现实自我" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 45,
+      "question": "荣格认为\"情结\"的形成与（ ）有关。",
+      "options": [
+        { "key": "A", "value": "特殊的经验" },
+        { "key": "B", "value": "防御的失败" },
+        { "key": "C", "value": "强烈的冲突" },
+        { "key": "D", "value": "童年的创伤" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 46,
+      "question": "弗洛姆认为，可以通过（ ）实现积极地自由。",
+      "options": [
+        { "key": "A", "value": "发展社会兴趣" },
+        { "key": "B", "value": "有意义的工作" },
+        { "key": "C", "value": "创造性的爱" },
+        { "key": "D", "value": "不断自我完善" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 47,
+      "question": "卡特尔的理论中，根源特质包括（ ）。",
+      "options": [
+        { "key": "A", "value": "能力特质" },
+        { "key": "B", "value": "气质特质" },
+        { "key": "C", "value": "成就特质" },
+        { "key": "D", "value": "动力特质" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 48,
+      "question": "大五人格模型理论中，人格五因素包括（ ）。",
+      "options": [
+        { "key": "A", "value": "神经质（N）" },
+        { "key": "B", "value": "开放性（O）" },
+        { "key": "C", "value": "外倾性（E）" },
+        { "key": "D", "value": "宜人性（A）" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 49,
+      "question": "以下对A型人格者的描述，正确的包括（ ）。",
+      "options": [
+        { "key": "A", "value": "有更强的获取成就的竞争性" },
+        { "key": "B", "value": "有更强的时间紧迫感" },
+        { "key": "C", "value": "对挫折情境更易接纳和包容" },
+        { "key": "D", "value": "易患心血管疾病" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 50,
+      "question": "阿德勒强调出生顺序对人格的影响，他认为（ ）。",
+      "options": [
+        {
+          "key": "A",
+          "value": "家中最小的孩子容易出现\"问题儿童、神经症、罪犯\"等"
+        },
+        { "key": "B", "value": "家中最小的孩子容易被父母纵容" },
+        { "key": "C", "value": "中间出生的孩子对优越感的追求强烈" },
+        { "key": "D", "value": "头生的孩子容易被过分保护" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 51,
+      "question": "人格具有稳定性，主要表现为（ ）。",
+      "options": [
+        { "key": "A", "value": "对环境的适应性" },
+        { "key": "B", "value": "人格一旦形成，难以改变" },
+        { "key": "C", "value": "跨情景的持续性" },
+        { "key": "D", "value": "决定一个人的生活方式" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 52,
+      "question": "精神分析理论认为人的心理过程需要心理能量的驱动，这种心理能量所遵循的原则包括（ ）。",
+      "options": [
+        { "key": "A", "value": "稳定原则" },
+        { "key": "B", "value": "释放原则" },
+        { "key": "C", "value": "平衡原则" },
+        { "key": "D", "value": "等量原则" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 53,
+      "question": "防御机制对心理健康十分重要，不同的防御机制具有的共同特征是（ ）。",
+      "options": [
+        { "key": "A", "value": "对现实的否认" },
+        { "key": "B", "value": "对现实的扭曲" },
+        { "key": "C", "value": "在潜意识中运作" },
+        { "key": "D", "value": "在前意识中运作" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 54,
+      "question": "马斯洛认为，大多数人不能成为自我实现者的主要原因包括（ ）。",
+      "options": [
+        { "key": "A", "value": "自我实现动机不足" },
+        { "key": "B", "value": "害怕尝试，固守现状" },
+        { "key": "C", "value": "文化环境的阻碍" },
+        { "key": "D", "value": "自我不协调" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 55,
+      "question": "对客观信息进行加工的过程中，人们的主观经验出现差异主要体现在（ ）等方面。",
+      "options": [
+        { "key": "A", "value": "目标和预期" },
+        { "key": "B", "value": "解释和归因" },
+        { "key": "C", "value": "知觉和言语" },
+        { "key": "D", "value": "编码和提取" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 56,
+      "question": "荣格理论中的原型包括（ ）。",
+      "options": [
+        { "key": "A", "value": "面具" },
+        { "key": "B", "value": "阿尼玛" },
+        { "key": "C", "value": "自性" },
+        { "key": "D", "value": "阿尼姆斯" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 57,
+      "question": "奥尔波特的人格理论中个人特质包括（ ）。",
+      "options": [
+        { "key": "A", "value": "首要特质" },
+        { "key": "B", "value": "动力特质" },
+        { "key": "C", "value": "气质特质" },
+        { "key": "D", "value": "中心特质" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 58,
+      "question": "大五人格理论中，尽责性得分高的人具有的特点包括（ ）。",
+      "options": [
+        { "key": "A", "value": "做事有条理、有计划" },
+        { "key": "B", "value": "有较高的责任感" },
+        { "key": "C", "value": "善于交际、精力充沛" },
+        { "key": "D", "value": "有活跃的想象力" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 59,
+      "question": "气质的维度包括（ ）。",
+      "options": [
+        { "key": "A", "value": "情绪性" },
+        { "key": "B", "value": "活动性" },
+        { "key": "C", "value": "社交性" },
+        { "key": "D", "value": "灵活性" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 60,
+      "question": "心理表征包括（ ）。",
+      "options": [
+        { "key": "A", "value": "原型" },
+        { "key": "B", "value": "面具" },
+        { "key": "C", "value": "脚本" },
+        { "key": "D", "value": "图式" }
+      ],
+      "answer": "ACD"
+    }
+  ]
+}

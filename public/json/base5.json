@@ -1,0 +1,1667 @@
+{
+  "id": 5,
+  "title": "变态心理学与健康心理学单科作业",
+  "subject": "心理学",
+  "total": 150,
+  "questions": [
+    {
+      "id": 1,
+      "question": "变态心理学侧重说明异常心理的",
+      "options": [
+        { "key": "A", "value": "诊断" },
+        { "key": "B", "value": "咨询" },
+        { "key": "C", "value": "治疗" },
+        { "key": "D", "value": "特点" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "精神分析理论认为本我的活动原则是",
+      "options": [
+        { "key": "A", "value": "现实原则" },
+        { "key": "B", "value": "道德原则" },
+        { "key": "C", "value": "快乐原则" },
+        { "key": "D", "value": "社会原则" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "弗洛伊德认为，神经症和精神病的重要起因是",
+      "options": [
+        { "key": "A", "value": "防御机制" },
+        { "key": "B", "value": "动机冲突" },
+        { "key": "C", "value": "性的冲突" },
+        { "key": "D", "value": "克制能力" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "弗洛伊德将人们防止焦虑的能力叫做",
+      "options": [
+        { "key": "A", "value": "防御机制" },
+        { "key": "B", "value": "本能动力" },
+        { "key": "C", "value": "心理异常" },
+        { "key": "D", "value": "快乐原则" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "精神分析理论认为，在人的成长过程中，未来心理健康的充分必要条件是",
+      "options": [
+        { "key": "A", "value": "合理使用不同形式的\"心理防御机制\"" },
+        { "key": "B", "value": "力比多的驱动" },
+        { "key": "C", "value": "顺利地度过\"性心理\"发展的每个阶段" },
+        { "key": "D", "value": "潜意识的结构" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "在人本主义看来，\"存在焦虑\"是",
+      "options": [
+        { "key": "A", "value": "存在与责任的冲突" },
+        { "key": "B", "value": "存在与潜能的冲突" },
+        { "key": "C", "value": "潜能与本能的矛盾" },
+        { "key": "D", "value": "本能与社会的矛盾" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "根据统计学标准，心理异常是",
+      "options": [
+        { "key": "A", "value": "由个体行为偏离平均值的程度决定的" },
+        { "key": "B", "value": "事件不确定性的函数" },
+        { "key": "C", "value": "由个体主观上的不适体验程度决定的" },
+        { "key": "D", "value": "心理不稳定性的函数" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "区分心理正常的心理学原则中，人格相对稳定性原则认为",
+      "options": [
+        { "key": "A", "value": "无明显原因的人格改变提示异常" },
+        { "key": "B", "value": "心理过程通过人格表现出来" },
+        { "key": "C", "value": "人格在各种条件下都应是稳定的" },
+        { "key": "D", "value": "人格是各种心理过程的总和" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "病理性错觉的特点是",
+      "options": [
+        { "key": "A", "value": "能够进行自我校正" },
+        { "key": "B", "value": "属于感知综合障碍" },
+        { "key": "C", "value": "不能接受现实检验" },
+        { "key": "D", "value": "属于思维形式障碍" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "感觉减退多见于",
+      "options": [
+        { "key": "A", "value": "抑郁状态" },
+        { "key": "B", "value": "感染后虚弱状态" },
+        { "key": "C", "value": "睡眠障碍" },
+        { "key": "D", "value": "精神运动性兴奋" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "无对象性的知觉是",
+      "options": [
+        { "key": "A", "value": "幻觉" },
+        { "key": "B", "value": "错觉" },
+        { "key": "C", "value": "妄想" },
+        { "key": "D", "value": "谵妄" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "体内有性质明确、部位具体的异常知觉，属于",
+      "options": [
+        { "key": "A", "value": "内感性不适" },
+        { "key": "B", "value": "非真实感" },
+        { "key": "C", "value": "内脏性幻觉" },
+        { "key": "D", "value": "被洞悉感" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "产生于主观空间内的幻觉是（ ）。",
+      "options": [
+        { "key": "A", "value": "真性幻觉" },
+        { "key": "B", "value": "假性幻觉" },
+        { "key": "C", "value": "主观幻觉" },
+        { "key": "D", "value": "脑内幻觉" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "思维鸣响属于",
+      "options": [
+        { "key": "A", "value": "思维内容障碍" },
+        { "key": "B", "value": "感觉障碍" },
+        { "key": "C", "value": "思维形式障碍" },
+        { "key": "D", "value": "知觉障碍" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "兴奋性思维联想障碍的一种常见形式是",
+      "options": [
+        { "key": "A", "value": "思维奔逸" },
+        { "key": "B", "value": "思维散漫" },
+        { "key": "C", "value": "被洞悉感" },
+        { "key": "D", "value": "妄想心境" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "抑制性思维联想障碍的一种常见形式是",
+      "options": [
+        { "key": "A", "value": "思维迟缓" },
+        { "key": "B", "value": "思维云集" },
+        { "key": "C", "value": "被洞悉感" },
+        { "key": "D", "value": "妄想心境" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "不受患者意愿支配的思潮，强制性地在大脑中大量涌现，内容杂乱多变，毫无意义，这种症状可能是",
+      "options": [
+        { "key": "A", "value": "破裂性思维" },
+        { "key": "B", "value": "强迫观念" },
+        { "key": "C", "value": "思维云集" },
+        { "key": "D", "value": "超价观念" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "把与自己本无关系的事情认为有关，这种妄想最可能是",
+      "options": [
+        { "key": "A", "value": "被害妄想" },
+        { "key": "B", "value": "钟情妄想" },
+        { "key": "C", "value": "关系妄想" },
+        { "key": "D", "value": "夸大妄想" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "有嫉妒妄想的人可表现为",
+      "options": [
+        { "key": "A", "value": "坚信配偶不忠" },
+        { "key": "B", "value": "见到他人强于自己而生气" },
+        { "key": "C", "value": "认为别人嫉妒自己" },
+        { "key": "D", "value": "想象他人强于自己而生气" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "如果出现注意范围缩小、主动注意减弱，这可能是",
+      "options": [
+        { "key": "A", "value": "注意减弱" },
+        { "key": "B", "value": "自知力不完整" },
+        { "key": "C", "value": "注意狭窄" },
+        { "key": "D", "value": "内心被披露感" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "将过去事实上没有发生过的事情说成是确有其事，这种症状是（ ）。",
+      "options": [
+        { "key": "A", "value": "错觉" },
+        { "key": "B", "value": "幻觉" },
+        { "key": "C", "value": "虚构" },
+        { "key": "D", "value": "错构" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "精神发育迟滞形成的原因是",
+      "options": [
+        { "key": "A", "value": "内心冲突变形" },
+        { "key": "B", "value": "获得性知识的丧失" },
+        { "key": "C", "value": "内心冲突强烈" },
+        { "key": "D", "value": "早期大脑发育不良" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "弗洛伊德认为，道德性焦虑源于",
+      "options": [
+        { "key": "A", "value": "超我" },
+        { "key": "B", "value": "冲动" },
+        { "key": "C", "value": "自我" },
+        { "key": "D", "value": "现实" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "情感反应与现实刺激的性质不相称，这种表现可出现于",
+      "options": [
+        { "key": "A", "value": "情感淡漠" },
+        { "key": "B", "value": "意志增强" },
+        { "key": "C", "value": "情绪倒错" },
+        { "key": "D", "value": "意志减退" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "某人行为被动，生活极度懒散，这种症状最可能是",
+      "options": [
+        { "key": "A", "value": "意向倒错" },
+        { "key": "B", "value": "情感倒错" },
+        { "key": "C", "value": "意志缺乏" },
+        { "key": "D", "value": "情绪低落" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "关于求医行为，正确的说法是",
+      "options": [
+        { "key": "A", "value": "重性精神病患者一定主动求医" },
+        { "key": "B", "value": "人格障碍者多主动求医" },
+        { "key": "C", "value": "重性精神病患者多主动求医" },
+        { "key": "D", "value": "神经症者多主动求医" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "不属于神经症的特点的是",
+      "options": [
+        { "key": "A", "value": "具有器质性病变" },
+        { "key": "B", "value": "精神痛苦" },
+        { "key": "C", "value": "意识的心理冲突" },
+        { "key": "D", "value": "持久性" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "急性应激障碍的持续时间为",
+      "options": [
+        { "key": "A", "value": "数小时至数天" },
+        { "key": "B", "value": "三个月至一年" },
+        { "key": "C", "value": "两个月至六个月" },
+        { "key": "D", "value": "一年以上" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "偏执性精神障碍又称",
+      "options": [
+        { "key": "A", "value": "偏执型人格障碍" },
+        { "key": "B", "value": "急性应激障碍" },
+        { "key": "C", "value": "妄想性障碍" },
+        { "key": "D", "value": "精神分裂症" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "以过分要求严格与完美为主要特征的人格障碍是（ ）人格障碍。",
+      "options": [
+        { "key": "A", "value": "焦虑性" },
+        { "key": "B", "value": "强迫性" },
+        { "key": "C", "value": "偏执性" },
+        { "key": "D", "value": "分裂样" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "心理健康咨询主要针对的是个体的",
+      "options": [
+        { "key": "A", "value": "心理不健康状态" },
+        { "key": "B", "value": "异常心理状态" },
+        { "key": "C", "value": "功能性机能失调" },
+        { "key": "D", "value": "神经过程紊乱" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "健康心理学侧重于研究",
+      "options": [
+        { "key": "A", "value": "伤害身体健康的生活方式和心理活动" },
+        { "key": "B", "value": "会造成心理活动异常的各种内在机制" },
+        { "key": "C", "value": "心理因素引发的躯体疾病的诊断治疗" },
+        { "key": "D", "value": "各种心理活动基本规律和普遍性原则" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "一组直接阻碍和破坏个体生存与种族延续的事件属于",
+      "options": [
+        { "key": "A", "value": "灾难性压力" },
+        { "key": "B", "value": "生物性压力源" },
+        { "key": "C", "value": "叠加性压力" },
+        { "key": "D", "value": "精神性压力源" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "个体不良的认知结构属于",
+      "options": [
+        { "key": "A", "value": "社会性压力源" },
+        { "key": "B", "value": "生物性压力源" },
+        { "key": "C", "value": "叠加性压力源" },
+        { "key": "D", "value": "精神性压力源" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "因社会交往不良而形成的压力源属于",
+      "options": [
+        { "key": "A", "value": "生物性压力源" },
+        { "key": "B", "value": "社会性压力源" },
+        { "key": "C", "value": "精神性压力源" },
+        { "key": "D", "value": "混合性压力源" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "人的内心冲突及与之相伴随的情绪体验是心理学意义上的",
+      "options": [
+        { "key": "A", "value": "压力" },
+        { "key": "B", "value": "适应" },
+        { "key": "C", "value": "冲突" },
+        { "key": "D", "value": "情绪" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "一个高中生在分科时，既想学理科也想学文科，他所面临的冲突属于",
+      "options": [
+        { "key": "A", "value": "双趋式冲突" },
+        { "key": "B", "value": "双避式冲突" },
+        { "key": "C", "value": "趋避式冲突" },
+        { "key": "D", "value": "双重趋避式冲突" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "一般单一性生活压力",
+      "options": [
+        { "key": "A", "value": "其作用完全是负面的" },
+        { "key": "B", "value": "有很大破坏性" },
+        { "key": "C", "value": "对人可有积极作用" },
+        { "key": "D", "value": "对人没有影响" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "强大的自然灾害后的心理反应可以经历以下阶段",
+      "options": [
+        { "key": "A", "value": "警觉期---恢复期---康复期" },
+        { "key": "B", "value": "警觉期---搏斗期---恢复期" },
+        { "key": "C", "value": "惊吓期---恢复期---康复期" },
+        { "key": "D", "value": "惊吓期---衰竭期---恢复期" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "个体对事件的实际反应取决于经过中介系统的增益或消解后压力的",
+      "options": [
+        { "key": "A", "value": "稳定程度" },
+        { "key": "B", "value": "相对强度" },
+        { "key": "C", "value": "主要特点" },
+        { "key": "D", "value": "本质属性" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "近年来许多研究显示，在社会支持系统中，压力的有效缓冲器是",
+      "options": [
+        { "key": "A", "value": "较少的社交活动" },
+        { "key": "B", "value": "现代化的家庭居住条件" },
+        { "key": "C", "value": "较多的家庭成员" },
+        { "key": "D", "value": "亲密的和可信任的关系" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "防御机制是（ ）的功能",
+      "options": [
+        { "key": "A", "value": "本我" },
+        { "key": "B", "value": "自我" },
+        { "key": "C", "value": "镜我" },
+        { "key": "D", "value": "超我" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "精神分裂症患者在言谈或书信中，其单独语句在语法结构上是正确的，但主题之间、语句之间缺乏内在意义上的连贯性和应有的逻辑性，这种症状是",
+      "options": [
+        { "key": "A", "value": "思维贫乏" },
+        { "key": "B", "value": "逻辑倒错性思维" },
+        { "key": "C", "value": "思维不连贯" },
+        { "key": "D", "value": "破裂性思维" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 44,
+      "question": "患者对一些能引起正常人情绪波动的事情以及与自身切身利益有密切关的事情缺乏相应的情绪反应，这种症状是",
+      "options": [
+        { "key": "A", "value": "情绪脆弱" },
+        { "key": "B", "value": "情绪倒错" },
+        { "key": "C", "value": "情绪迟钝" },
+        { "key": "D", "value": "情绪淡漠" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "question": "\"四面楚歌\"可以用来形容",
+      "options": [
+        { "key": "A", "value": "同时性叠加压力" },
+        { "key": "B", "value": "一般单一性生活压力" },
+        { "key": "C", "value": "继时性叠加压力" },
+        { "key": "D", "value": "破坏性压力" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "受害者出现焦虑、紧张、失眠、注意力下降等情况，常常逢人便诉说自己的遭遇，这种情况一般出现在\"灾难征候群\"的",
+      "options": [
+        { "key": "A", "value": "警觉期" },
+        { "key": "B", "value": "惊吓期" },
+        { "key": "C", "value": "恢复期" },
+        { "key": "D", "value": "康复期" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "在应对压力过程中个体变得敏感、脆弱，即使是日常微小的困扰，都可引发个体强烈的情绪反应，说明其处于\"一般适应征候群\"的",
+      "options": [
+        { "key": "A", "value": "警觉阶段" },
+        { "key": "B", "value": "搏斗阶段" },
+        { "key": "C", "value": "衰竭阶段" },
+        { "key": "D", "value": "康复阶段" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "巴甫洛夫认为兴奋过程的薄弱和抑制过程的优势是（ ）的神经机制。",
+      "options": [
+        { "key": "A", "value": "神经衰弱" },
+        { "key": "B", "value": "癔病" },
+        { "key": "C", "value": "心境障碍" },
+        { "key": "D", "value": "精神分裂症" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "强迫性计数属于",
+      "options": [
+        { "key": "A", "value": "思维奔逸" },
+        { "key": "B", "value": "思维云集" },
+        { "key": "C", "value": "强迫观念" },
+        { "key": "D", "value": "强迫动作" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "精神分裂症患者说闭上眼睛能看到东西，用脑子能听到声音，这种症状属于",
+      "options": [
+        { "key": "A", "value": "思维形式障碍" },
+        { "key": "B", "value": "真性幻觉" },
+        { "key": "C", "value": "感知综合障碍" },
+        { "key": "D", "value": "假性幻觉" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 51,
+      "question": "患者在意识障碍的情况下出现语词杂拌，这种症状是",
+      "options": [
+        { "key": "A", "value": "病理性赘述" },
+        { "key": "B", "value": "思维不连贯" },
+        { "key": "C", "value": "破裂性思维" },
+        { "key": "D", "value": "逻辑倒错性思维" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "人在抑郁状态下出现的病理性感觉阈限增高在临床上的表现是",
+      "options": [
+        { "key": "A", "value": "感觉过敏" },
+        { "key": "B", "value": "感觉减退" },
+        { "key": "C", "value": "假性幻觉" },
+        { "key": "D", "value": "内感性不适" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 53,
+      "question": "急性应激障碍的病程为",
+      "options": [
+        { "key": "A", "value": "数分钟至数小时" },
+        { "key": "B", "value": "数小时至数天" },
+        { "key": "C", "value": "数周到数月" },
+        { "key": "D", "value": "半年以上" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "以下各项中，属于社会环境性压力源的是",
+      "options": [
+        { "key": "A", "value": "睡眠剥夺" },
+        { "key": "B", "value": "气温变化" },
+        { "key": "C", "value": "多疑嫉妒" },
+        { "key": "D", "value": "社交不良" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "生物调节系统作为压力的中介系统，其中最主要的是",
+      "options": [
+        { "key": "A", "value": "神经系统" },
+        { "key": "B", "value": "内分泌系统" },
+        { "key": "C", "value": "免疫系统" },
+        { "key": "D", "value": "呼吸系统" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "关于心理异常的现代解释始于（ ）世纪。",
+      "options": [
+        { "key": "A", "value": "18" },
+        { "key": "B", "value": "19" },
+        { "key": "C", "value": "20" },
+        { "key": "D", "value": "21" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "人在某个感觉器官处于功能活动状态的同时出现幻觉称为",
+      "options": [
+        { "key": "A", "value": "非真实感" },
+        { "key": "B", "value": "功能性幻觉" },
+        { "key": "C", "value": "思维鸣响" },
+        { "key": "D", "value": "心因性幻觉" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "病理性赘述常见于（ ）患者。",
+      "options": [
+        { "key": "A", "value": "躁狂发作" },
+        { "key": "B", "value": "脑器质性精神障碍" },
+        { "key": "C", "value": "抑郁发作" },
+        { "key": "D", "value": "依赖型人格障碍" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "患者常常因为一些细小或无关紧要的事情而伤心落泪或兴奋激动，无法克制，这种症状是",
+      "options": [
+        { "key": "A", "value": "情绪倒错" },
+        { "key": "B", "value": "情绪低落" },
+        { "key": "C", "value": "易激惹" },
+        { "key": "D", "value": "情绪脆弱" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 60,
+      "question": "不属于抑郁发作症状的是",
+      "options": [
+        { "key": "A", "value": "思维贫乏" },
+        { "key": "B", "value": "言语减少" },
+        { "key": "C", "value": "情绪低落" },
+        { "key": "D", "value": "动作迟缓" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "属于适应障碍症状的是",
+      "options": [
+        { "key": "A", "value": "抑郁心境" },
+        { "key": "B", "value": "定向力障碍" },
+        { "key": "C", "value": "意识障碍" },
+        { "key": "D", "value": "精神运动性抑制" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "根据许又新教授的观点，要判断神经症，对精神痛苦和社会功能的评定，至少要考虑近（ ）的情况。",
+      "options": [
+        { "key": "A", "value": "2周" },
+        { "key": "B", "value": "2个月" },
+        { "key": "C", "value": "3周" },
+        { "key": "D", "value": "3个月" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 63,
+      "question": "创伤后应激障碍的症状不包括",
+      "options": [
+        { "key": "A", "value": "创伤性体验反复重现" },
+        { "key": "B", "value": "对创伤性经历的选择性遗忘" },
+        { "key": "C", "value": "情感的钝化和回避" },
+        { "key": "D", "value": "植物神经过度抑制" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 64,
+      "question": "适应障碍的病程一般不超过",
+      "options": [
+        { "key": "A", "value": "1个月" },
+        { "key": "B", "value": "2个月" },
+        { "key": "C", "value": "3个月" },
+        { "key": "D", "value": "6个月" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "以猜疑和固执己见为特点的是",
+      "options": [
+        { "key": "A", "value": "分裂样人格障碍" },
+        { "key": "B", "value": "冲动性人格障碍" },
+        { "key": "C", "value": "偏执性人格障碍" },
+        { "key": "D", "value": "表演型人格障碍" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "关于\"注意\"，以下描述错误的是",
+      "options": [
+        { "key": "A", "value": "注意是一切心理活动的共同属性" },
+        { "key": "B", "value": "注意障碍也可见于激情状态" },
+        { "key": "C", "value": "意识障碍总是伴有注意障碍" },
+        { "key": "D", "value": "注意对判断有无行为障碍具有重要意义" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 67,
+      "question": "患者不能回忆疾病发生之后一段时间内所经历的事情称为",
+      "options": [
+        { "key": "A", "value": "顺行性遗忘" },
+        { "key": "B", "value": "癔症性遗忘" },
+        { "key": "C", "value": "逆行性遗忘" },
+        { "key": "D", "value": "心因性遗忘" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "癔症性人格障碍又称",
+      "options": [
+        { "key": "A", "value": "偏执性人格障碍" },
+        { "key": "B", "value": "表演型人格障碍" },
+        { "key": "C", "value": "焦虑型人格障碍" },
+        { "key": "D", "value": "依赖性人格障碍" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "人抵抗慢性的、长期的精神刺激的能力叫做",
+      "options": [
+        { "key": "A", "value": "心理活动强度" },
+        { "key": "B", "value": "心理自控力" },
+        { "key": "C", "value": "心理活动耐受力" },
+        { "key": "D", "value": "环境适应能力" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "人对突然的强大精神刺激的抵抗能力叫做",
+      "options": [
+        { "key": "A", "value": "心理活动强度" },
+        { "key": "B", "value": "心理自控力" },
+        { "key": "C", "value": "心理活动耐受力" },
+        { "key": "D", "value": "环境适应能力" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "通过观察和测验等方法考察心理活动过程及其效率的指标被称为",
+      "options": [
+        { "key": "A", "value": "体验标准" },
+        { "key": "B", "value": "综合标准" },
+        { "key": "C", "value": "发展标准" },
+        { "key": "D", "value": "操作标准" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 72,
+      "question": "着重对个体的心理发展状况进行纵向考察与分析并作为评价指标，被称为",
+      "options": [
+        { "key": "A", "value": "体验标准" },
+        { "key": "B", "value": "综合标准" },
+        { "key": "C", "value": "发展标准" },
+        { "key": "D", "value": "操作标准" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "心理咨询工作关注来访者是否心理异常，目的是",
+      "options": [
+        { "key": "A", "value": "选择有精神障碍的人作为自己的工作对象" },
+        { "key": "B", "value": "将有精神障碍的人永远排除在心理咨询工作之外" },
+        { "key": "C", "value": "将其作为心理健康的指标" },
+        { "key": "D", "value": "将有精神障碍的人及时进行转诊" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 74,
+      "question": "\"心理正常\"意味着",
+      "options": [
+        { "key": "A", "value": "包含精神病性症状在内的心理活动" },
+        { "key": "B", "value": "具备正常功能的心理活动" },
+        { "key": "C", "value": "包含心理不正常在内的心理活动" },
+        { "key": "D", "value": "一切可能的心理活动" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "以下关于健康心理学的工作领域，错误的是",
+      "options": [
+        { "key": "A", "value": "疾病预防和治疗中的心理学问题" },
+        { "key": "B", "value": "心身疾病的诊断和治疗" },
+        { "key": "C", "value": "促进健康服务和健康服务政策的制定" },
+        { "key": "D", "value": "生活方式及心理活动与疾病的关系" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "发展性咨询对象是（ ）的求助者",
+      "options": [
+        { "key": "A", "value": "寻求职业生涯规划" },
+        { "key": "B", "value": "躁狂发作" },
+        { "key": "C", "value": "解决是否离婚问题" },
+        { "key": "D", "value": "确诊神经症" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "某人因焦虑而不得不更换工作，根据许又新教授神经症评定方法，其社会功能属于",
+      "options": [
+        { "key": "A", "value": "没有受损" },
+        { "key": "B", "value": "轻度受损" },
+        { "key": "C", "value": "中度受损" },
+        { "key": "D", "value": "重度受损" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 78,
+      "question": "生物性压力源不包括（ ）。",
+      "options": [
+        { "key": "A", "value": "歪曲的认知" },
+        { "key": "B", "value": "饥饿" },
+        { "key": "C", "value": "躯体创伤" },
+        { "key": "D", "value": "噪音" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "精神性压力源是指",
+      "options": [
+        { "key": "A", "value": "一组直接阻碍和破坏个体生存和种族延续的事件" },
+        { "key": "B", "value": "一组直接阻碍和破坏个体社会需要的事件" },
+        {
+          "key": "C",
+          "value": "一组直接阻碍和破坏个体正常精神需求的内在和外在事件的事件"
+        },
+        { "key": "D", "value": "一组直接阻碍和破坏个体日常生活的事件" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "社会性压力源是指",
+      "options": [
+        { "key": "A", "value": "一组直接阻碍和破坏个体生存和种族延续的事件" },
+        { "key": "B", "value": "一组直接阻碍和破坏个体社会需要的事件" },
+        {
+          "key": "C",
+          "value": "一组直接阻碍和破坏个体正常精神需求的内在和外在事件的事件"
+        },
+        { "key": "D", "value": "一组直接阻碍和破坏个体日常生活的事件" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 81,
+      "question": "日常生活小困扰量表提出",
+      "options": [
+        { "key": "A", "value": "日常小压力比主要的社会改变更能预测健康" },
+        { "key": "B", "value": "令人兴奋事件与健康有关" },
+        { "key": "C", "value": "健康状况与小困扰出现的频率和强度无关" },
+        { "key": "D", "value": "健康状况与生活事件数目相关" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "不会产生压力体验的心态是（ ）。",
+      "options": [
+        { "key": "A", "value": "无法选择" },
+        { "key": "B", "value": "左右为难" },
+        { "key": "C", "value": "无所适从" },
+        { "key": "D", "value": "漠不关心" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 83,
+      "question": "一名高考成绩极高的学生，不知该选择清华大学还是北京大学时所面临的是",
+      "options": [
+        { "key": "A", "value": "双趋冲突" },
+        { "key": "B", "value": "趋避冲突" },
+        { "key": "C", "value": "双避冲突" },
+        { "key": "D", "value": "双重趋避冲突" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "高层建筑失火，住在失火楼层以上的人面临的是",
+      "options": [
+        { "key": "A", "value": "双趋冲突" },
+        { "key": "B", "value": "趋避冲突" },
+        { "key": "C", "value": "双避冲突" },
+        { "key": "D", "value": "双重趋避冲突" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "当同时面临两种各自既有利、又有弊的选择时，个体体验到的是",
+      "options": [
+        { "key": "A", "value": "双趋冲突" },
+        { "key": "B", "value": "趋避冲突" },
+        { "key": "C", "value": "双避冲突" },
+        { "key": "D", "value": "双重趋避冲突" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 86,
+      "question": "一般单一性生活压力的后效",
+      "options": [
+        { "key": "A", "value": "是灾难性的" },
+        { "key": "B", "value": "完全是负面的" },
+        { "key": "C", "value": "是高强度的" },
+        { "key": "D", "value": "不完全是负面的" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "如果未能得到及时治疗，（ ）常常进一步发展为被害妄想。",
+      "options": [
+        { "key": "A", "value": "虚无妄想" },
+        { "key": "B", "value": "妄想心境" },
+        { "key": "C", "value": "妄想知觉" },
+        { "key": "D", "value": "自罪妄想" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "\"祸不单行\"可以用来形容",
+      "options": [
+        { "key": "A", "value": "单一性压力" },
+        { "key": "B", "value": "同时性叠加压力" },
+        { "key": "C", "value": "破坏性压力" },
+        { "key": "D", "value": "继时性叠加压力" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 89,
+      "question": "\"飞来横祸\"可以用来形容",
+      "options": [
+        { "key": "A", "value": "单一性压力" },
+        { "key": "B", "value": "同时性叠加压力" },
+        { "key": "C", "value": "破坏性压力" },
+        { "key": "D", "value": "继时性叠加压力" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 90,
+      "question": "可以造成破坏性压力的事件是",
+      "options": [
+        { "key": "A", "value": "空难" },
+        { "key": "B", "value": "旅游" },
+        { "key": "C", "value": "失恋" },
+        { "key": "D", "value": "迁居" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "患者不仅正常情绪反应量减少，并且人类所特有的很精细的情绪（如荣誉感、责任感、义务感等）逐渐受损，这种症状称为",
+      "options": [
+        { "key": "A", "value": "情绪脆弱" },
+        { "key": "B", "value": "情绪倒错" },
+        { "key": "C", "value": "情绪迟钝" },
+        { "key": "D", "value": "情绪淡漠" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 92,
+      "question": "\"失魂落魄\"的状态，意味着个体处在\"灾难征候群\"的",
+      "options": [
+        { "key": "A", "value": "警觉期" },
+        { "key": "B", "value": "惊吓期" },
+        { "key": "C", "value": "恢复期" },
+        { "key": "D", "value": "康复期" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "\"非真实感\"属于",
+      "options": [
+        { "key": "A", "value": "感觉障碍" },
+        { "key": "B", "value": "自知力障碍" },
+        { "key": "C", "value": "知觉障碍" },
+        { "key": "D", "value": "感知综合障碍" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "塞利提出的压力适应的三个阶段，统称",
+      "options": [
+        { "key": "A", "value": "战场疲劳综合症" },
+        { "key": "B", "value": "一般适应征候群" },
+        { "key": "C", "value": "创伤后应激障碍" },
+        { "key": "D", "value": "灾难征候群" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "一般适应征候群的第三个阶段是",
+      "options": [
+        { "key": "A", "value": "警觉阶段" },
+        { "key": "B", "value": "搏斗阶段" },
+        { "key": "C", "value": "康复阶段" },
+        { "key": "D", "value": "衰竭阶段" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 96,
+      "question": "个体出现呼吸、心跳加速，汗腺加快分泌，血压、体温升高等表现，说明其处于一般适应征候群的",
+      "options": [
+        { "key": "A", "value": "警觉阶段" },
+        { "key": "B", "value": "搏斗阶段" },
+        { "key": "C", "value": "康复阶段" },
+        { "key": "D", "value": "衰竭阶段" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "压力作用于个体后，会经过（ ）系统的增益或消解。",
+      "options": [
+        { "key": "A", "value": "认知、情绪情感、意志" },
+        { "key": "B", "value": "认知、社会支持、免疫" },
+        { "key": "C", "value": "免疫、社会支持、人格" },
+        { "key": "D", "value": "认知、情绪情感、社会支持" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "外控型人格者，",
+      "options": [
+        { "key": "A", "value": "认为命运主宰人的生活" },
+        { "key": "B", "value": "认为成功是个人努力的结果" },
+        { "key": "C", "value": "体验到的压力强度较低" },
+        { "key": "D", "value": "遭遇压力事件后很少怨天尤人" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "思维云集又称",
+      "options": [
+        { "key": "A", "value": "强制性思维" },
+        { "key": "B", "value": "强迫观念" },
+        { "key": "C", "value": "强迫性思维" },
+        { "key": "D", "value": "超价观念" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "良好的生物调节系统功能，可以防止或降低应激引起的",
+      "options": [
+        { "key": "A", "value": "认知功能的失调" },
+        { "key": "B", "value": "躯体化的症状" },
+        { "key": "C", "value": "人格结构的变化" },
+        { "key": "D", "value": "心理冲突强度" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "正常心理活动的功能包括保障",
+      "options": [
+        { "key": "A", "value": "顺利地适应环境" },
+        { "key": "B", "value": "正常地人际交往" },
+        { "key": "C", "value": "正确地反映世界" },
+        { "key": "D", "value": "幸福地享受人生" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 102,
+      "question": "感知综合障碍的症状包括",
+      "options": [
+        { "key": "A", "value": "视物变性症" },
+        { "key": "B", "value": "\"窥镜症\"" },
+        { "key": "C", "value": "\"非真实感\"" },
+        { "key": "D", "value": "假性幻觉" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 103,
+      "question": "关于思维鸣响，正确的说法包括",
+      "options": [
+        { "key": "A", "value": "它是一种特殊形式的幻觉" },
+        { "key": "B", "value": "认为别人能知道自己没表达的思想" },
+        { "key": "C", "value": "它是一种特殊形式的妄想" },
+        { "key": "D", "value": "能听到自己头脑中思维活动的内容" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 104,
+      "question": "思维形式障碍包括",
+      "options": [
+        { "key": "A", "value": "强迫观念" },
+        { "key": "B", "value": "思维插入" },
+        { "key": "C", "value": "思维鸣响" },
+        { "key": "D", "value": "思维贫乏" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 105,
+      "question": "原发性妄想的形式包括",
+      "options": [
+        { "key": "A", "value": "妄想感觉" },
+        { "key": "B", "value": "妄想知觉" },
+        { "key": "C", "value": "妄想心境" },
+        { "key": "D", "value": "妄想焦虑" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 106,
+      "question": "病理性遗忘的种类包括（ ）遗忘。",
+      "options": [
+        { "key": "A", "value": "倒错性" },
+        { "key": "B", "value": "顺行性" },
+        { "key": "C", "value": "逆行性" },
+        { "key": "D", "value": "心因性" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 107,
+      "question": "痴呆是一种",
+      "options": [
+        { "key": "A", "value": "智能障碍" },
+        { "key": "B", "value": "后天获得的损害" },
+        { "key": "C", "value": "意识障碍" },
+        { "key": "D", "value": "先天获得的损害" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 108,
+      "question": "弗洛伊德认为，神经性焦虑的特点包括",
+      "options": [
+        { "key": "A", "value": "威胁来自于超我" },
+        { "key": "B", "value": "意识不到" },
+        { "key": "C", "value": "威胁来自于本能" },
+        { "key": "D", "value": "能意识到" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 109,
+      "question": "精神运动性抑制包括",
+      "options": [
+        { "key": "A", "value": "木僵" },
+        { "key": "B", "value": "蜡样屈曲" },
+        { "key": "C", "value": "违拗" },
+        { "key": "D", "value": "刻板动作" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 110,
+      "question": "刻板动作的特点是",
+      "options": [
+        { "key": "A", "value": "反复重复某一动作" },
+        { "key": "B", "value": "动作违背个人意愿" },
+        { "key": "C", "value": "常伴随有刻板言语" },
+        { "key": "D", "value": "能体验到内心痛苦" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 111,
+      "question": "精神分裂症的特点是",
+      "options": [
+        { "key": "A", "value": "精神活动的脱离现实" },
+        { "key": "B", "value": "多起病于青年和壮年" },
+        { "key": "C", "value": "智能受损往往较严重" },
+        { "key": "D", "value": "患病期间自知力丧失" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 112,
+      "question": "精神分裂在发病时间上的特点包括",
+      "options": [
+        { "key": "A", "value": "病程较短" },
+        { "key": "B", "value": "多起病于幼儿期" },
+        { "key": "C", "value": "病程迁延" },
+        { "key": "D", "value": "多起病于青壮年" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 113,
+      "question": "精神分裂症患者通常会表现出",
+      "options": [
+        { "key": "A", "value": "自知力受到破坏" },
+        { "key": "B", "value": "智能低下" },
+        { "key": "C", "value": "精神活动不协调" },
+        { "key": "D", "value": "意识障碍" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 114,
+      "question": "抑郁发作的特点是",
+      "options": [
+        { "key": "A", "value": "情绪低落" },
+        { "key": "B", "value": "思维混乱" },
+        { "key": "C", "value": "动作减少" },
+        { "key": "D", "value": "感觉过敏" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 115,
+      "question": "许又新评定神经症的主要维度包括",
+      "options": [
+        { "key": "A", "value": "人格相对稳定程度" },
+        { "key": "B", "value": "病程长短" },
+        { "key": "C", "value": "社会功能受损程度" },
+        { "key": "D", "value": "精神痛苦程度" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 116,
+      "question": "创伤后应激障碍的症状包括",
+      "options": [
+        { "key": "A", "value": "选择性遗忘" },
+        { "key": "B", "value": "闪回" },
+        { "key": "C", "value": "抑郁、焦虑" },
+        { "key": "D", "value": "妄想" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 117,
+      "question": "焦虑性人格障碍的特点是",
+      "options": [
+        { "key": "A", "value": "总是感到不安" },
+        { "key": "B", "value": "对他人意见过分过敏" },
+        { "key": "C", "value": "一贯猜疑偏执" },
+        { "key": "D", "value": "习惯性夸大潜在危险" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 118,
+      "question": "第三届国际心理卫生大会认定的心理健康的标志包括",
+      "options": [
+        { "key": "A", "value": "适应环境" },
+        { "key": "B", "value": "有幸福感" },
+        { "key": "C", "value": "追求第一" },
+        { "key": "D", "value": "受到赞扬" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 119,
+      "question": "许又新提出的心理健康标准包括（ ）。",
+      "options": [
+        { "key": "A", "value": "医学标准" },
+        { "key": "B", "value": "操作标准" },
+        { "key": "C", "value": "体验标准" },
+        { "key": "D", "value": "统计学标准" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 120,
+      "question": "李心天提出的区分心理正常与心理异常的标准包括",
+      "options": [
+        { "key": "A", "value": "医学标准" },
+        { "key": "B", "value": "内省经验标准" },
+        { "key": "C", "value": "发展标准" },
+        { "key": "D", "value": "统计学标准" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 121,
+      "question": "躯体疾病患者的一般心理特点包括",
+      "options": [
+        { "key": "A", "value": "对自身价值的态度变化" },
+        { "key": "B", "value": "注意力集中在自身体验上" },
+        { "key": "C", "value": "对客观世界的态度不变" },
+        { "key": "D", "value": "时间知觉发生变化" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 122,
+      "question": "社会环境性压力源的种类包括",
+      "options": [
+        { "key": "A", "value": "纯社会性问题" },
+        { "key": "B", "value": "人际适应问题" },
+        { "key": "C", "value": "自然条件改变" },
+        { "key": "D", "value": "物理属性改变" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 123,
+      "question": "研究发现，生活中影响人健康状况的是小困扰的",
+      "options": [
+        { "key": "A", "value": "频率" },
+        { "key": "B", "value": "严重性" },
+        { "key": "C", "value": "强度" },
+        { "key": "D", "value": "顺序性" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 124,
+      "question": "动机冲突的形式主要有",
+      "options": [
+        { "key": "A", "value": "双趋式冲突" },
+        { "key": "B", "value": "双避式冲突" },
+        { "key": "C", "value": "趋避式冲突" },
+        { "key": "D", "value": "双重趋避式冲突" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 125,
+      "question": "破坏性压力可以导致",
+      "options": [
+        { "key": "A", "value": "急性应激障碍" },
+        { "key": "B", "value": "灾难症候群" },
+        { "key": "C", "value": "人格障碍" },
+        { "key": "D", "value": "创伤后应激障碍" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 126,
+      "question": "一般适应症候群包括",
+      "options": [
+        { "key": "A", "value": "恢复阶段" },
+        { "key": "B", "value": "衰竭阶段" },
+        { "key": "C", "value": "搏斗阶段" },
+        { "key": "D", "value": "康复阶段" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 127,
+      "question": "癔症的分离性障碍包括癔症性",
+      "options": [
+        { "key": "A", "value": "遗忘" },
+        { "key": "B", "value": "失明" },
+        { "key": "C", "value": "漫游" },
+        { "key": "D", "value": "失聪" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 128,
+      "question": "柯萨可夫综合征的症状包括",
+      "options": [
+        { "key": "A", "value": "记忆减退" },
+        { "key": "B", "value": "虚构" },
+        { "key": "C", "value": "定向力障碍" },
+        { "key": "D", "value": "错构" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 129,
+      "question": "妄想性障碍的特点包括",
+      "options": [
+        { "key": "A", "value": "妄想内容有一定现实性" },
+        { "key": "B", "value": "患者多有幻觉" },
+        { "key": "C", "value": "病前人格多固执、主观" },
+        { "key": "D", "value": "病程发展缓慢" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 130,
+      "question": "健康心理学的工作领域包括",
+      "options": [
+        { "key": "A", "value": "促进和维护健康的心理学问题" },
+        { "key": "B", "value": "疾病患者的心理学问题" },
+        { "key": "C", "value": "躯体疾病的治疗和康复原则的制定" },
+        { "key": "D", "value": "促进健康服务和健康服务政策的制定" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 131,
+      "question": "心理生理障碍包括",
+      "options": [
+        { "key": "A", "value": "进食障碍" },
+        { "key": "B", "value": "睡眠障碍" },
+        { "key": "C", "value": "焦虑障碍" },
+        { "key": "D", "value": "双相障碍" }
+      ],
+      "answer": "AB"
+    },
+    {
+      "id": 132,
+      "question": "神经症的特点包括",
+      "options": [
+        { "key": "A", "value": "无意识的心理冲突" },
+        { "key": "B", "value": "精神痛苦" },
+        { "key": "C", "value": "没有任何器质性病变" },
+        { "key": "D", "value": "持久性" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 133,
+      "question": "创伤后应激障碍的主要表现包括",
+      "options": [
+        { "key": "A", "value": "创伤性体验反复重现" },
+        { "key": "B", "value": "伴随焦虑和抑郁" },
+        { "key": "C", "value": "植物神经过度抑制" },
+        { "key": "D", "value": "对创伤经历的选择性遗忘" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 134,
+      "question": "生物性压力源包括",
+      "options": [
+        { "key": "A", "value": "饥饿" },
+        { "key": "B", "value": "性剥夺" },
+        { "key": "C", "value": "疾病" },
+        { "key": "D", "value": "离婚" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 135,
+      "question": "属于思维形式障碍的症状包括",
+      "options": [
+        { "key": "A", "value": "思维鸣响" },
+        { "key": "B", "value": "思维奔逸" },
+        { "key": "C", "value": "思维中断" },
+        { "key": "D", "value": "语词新作" }
+      ],
+      "answer": "BCD"
+    },
+    {
+      "id": 136,
+      "question": "内感性不适多见于",
+      "options": [
+        { "key": "A", "value": "抑郁状态" },
+        { "key": "B", "value": "精神分裂症" },
+        { "key": "C", "value": "神经症" },
+        { "key": "D", "value": "脑外伤后综合征" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 137,
+      "question": "以下属于认知障碍的症状包括",
+      "options": [
+        { "key": "A", "value": "感觉减退" },
+        { "key": "B", "value": "注意狭窄" },
+        { "key": "C", "value": "强迫观念" },
+        { "key": "D", "value": "意向倒错" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 138,
+      "question": "急性短暂性精神障碍的特点包括",
+      "options": [
+        { "key": "A", "value": "起病前有相应心因" },
+        { "key": "B", "value": "2天内急性起病" },
+        { "key": "C", "value": "3个月内可完全恢复" },
+        { "key": "D", "value": "以幻觉、妄想症状为主" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 139,
+      "question": "\"非真实感\"可见于",
+      "options": [
+        { "key": "A", "value": "抑郁发作" },
+        { "key": "B", "value": "适应障碍" },
+        { "key": "C", "value": "神经症" },
+        { "key": "D", "value": "精神分裂症" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 140,
+      "question": "强迫观念包括",
+      "options": [
+        { "key": "A", "value": "强迫性怀疑" },
+        { "key": "B", "value": "强迫性计数" },
+        { "key": "C", "value": "强迫性回忆" },
+        { "key": "D", "value": "强迫性检查" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 141,
+      "question": "焦虑神经症的症状包括",
+      "options": [
+        { "key": "A", "value": "漂浮焦虑" },
+        { "key": "B", "value": "精神运动性不安" },
+        { "key": "C", "value": "烦躁易怒" },
+        { "key": "D", "value": "植物神经功能障碍" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 142,
+      "question": "弗洛伊德将焦虑分为",
+      "options": [
+        { "key": "A", "value": "客体性焦虑" },
+        { "key": "B", "value": "主体性焦虑" },
+        { "key": "C", "value": "神经性焦虑" },
+        { "key": "D", "value": "道德性焦虑" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 143,
+      "question": "按妄想的起源以及妄想与其他精神症状的关系分类，妄想包括（ ）。",
+      "options": [
+        { "key": "A", "value": "物理影响妄想" },
+        { "key": "B", "value": "特殊意义妄想" },
+        { "key": "C", "value": "原发性妄想" },
+        { "key": "D", "value": "继发性妄想" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 144,
+      "question": "急性应激障碍的主要表现包括",
+      "options": [
+        { "key": "A", "value": "意识障碍" },
+        { "key": "B", "value": "人格解体" },
+        { "key": "C", "value": "定向障碍" },
+        { "key": "D", "value": "强烈恐惧" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 145,
+      "question": "属于心理异常的包括",
+      "options": [
+        { "key": "A", "value": "精神分裂症" },
+        { "key": "B", "value": "确诊的神经症" },
+        { "key": "C", "value": "人格障碍" },
+        { "key": "D", "value": "心境障碍" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 146,
+      "question": "心理咨询的对象的心理特点包括",
+      "options": [
+        { "key": "A", "value": "心理正常" },
+        { "key": "B", "value": "心理健康" },
+        { "key": "C", "value": "心理异常" },
+        { "key": "D", "value": "心理不健康" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 147,
+      "question": "对于健康心理活动的描述正确的包括",
+      "options": [
+        { "key": "A", "value": "健康的心理活动是一种处于动态平衡的心理过程" },
+        { "key": "B", "value": "它涵盖一切有利于个体生存与发展的心理活动" },
+        {
+          "key": "C",
+          "value": "它是围绕心理健康常模，在一定范围内上下波动的相对平衡过程"
+        },
+        { "key": "D", "value": "它在某一时间段内，展现着自身的正常功能" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 148,
+      "question": "精神分裂症患者认为有人嫉妒其才能要加害于他，并用高科技手段控制其思想和行为，该患者出现的症状包括",
+      "options": [
+        { "key": "A", "value": "关系妄想" },
+        { "key": "B", "value": "被害妄想" },
+        { "key": "C", "value": "嫉妒妄想" },
+        { "key": "D", "value": "影响妄想" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 149,
+      "question": "破坏性压力可以造成",
+      "options": [
+        { "key": "A", "value": "急性应激障碍" },
+        { "key": "B", "value": "创伤后应激障碍" },
+        { "key": "C", "value": "人格障碍" },
+        { "key": "D", "value": "急性短暂性精神障碍" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 150,
+      "question": "压力的中介系统包括",
+      "options": [
+        { "key": "A", "value": "认知系统" },
+        { "key": "B", "value": "生物调节系统" },
+        { "key": "C", "value": "情绪系统" },
+        { "key": "D", "value": "社会支持系统" }
+      ],
+      "answer": "ABD"
+    }
+  ]
+}

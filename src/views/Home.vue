@@ -11,7 +11,18 @@ const router = useRouter();
 const examList = ref<ExamItem[]>([]);
 
 const loadExamList = async () => {
-  const names = ["base1", "base2"];
+  const names = [
+    "base1",
+    "base2",
+    "base3",
+    "base4",
+    "base5",
+    "base6",
+    "base7",
+    "base8",
+    "base9",
+    "base10",
+  ]; // 试卷文件名列表
   const exams = await Promise.all(
     names.map((n) => fetch(`/json/${n}.json`).then((r) => r.json())),
   );

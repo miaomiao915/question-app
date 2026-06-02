@@ -1,0 +1,558 @@
+{
+  "id": 9,
+  "title": "心理测验技能单科作业",
+  "subject": "心理咨询",
+  "total": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "MMPI的F量表得高分提示（ ）。",
+      "options": [
+        { "key": "A", "value": "心理健康" },
+        { "key": "B", "value": "心身疾病" },
+        { "key": "C", "value": "理解错误" },
+        { "key": "D", "value": "情感高涨" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "在施测MMPl测验时，如果受测者的情况前后有所不同，应当（ ）。",
+      "options": [
+        { "key": "A", "value": "以从前情况为准" },
+        { "key": "B", "value": "根据不同项目来选择" },
+        { "key": "C", "value": "以目前情况为准" },
+        { "key": "D", "value": "填写症状严重的情况" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "16PF施测时的时间限制是（ ）。",
+      "options": [
+        { "key": "A", "value": "30分钟" },
+        { "key": "B", "value": "40分钟" },
+        { "key": "C", "value": "50分钟" },
+        { "key": "D", "value": "无严格规定" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "有关16PF，下列说法中错误的是（ ）。",
+      "options": [
+        { "key": "A", "value": "每题有三个备选答案" },
+        { "key": "B", "value": "每题只能选一个答案" },
+        { "key": "C", "value": "尽量不选择中性答案" },
+        { "key": "D", "value": "先看效度量表结果" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "16PF的高分范围是（ ）分。",
+      "options": [
+        { "key": "A", "value": "1~3" },
+        { "key": "B", "value": "3~6" },
+        { "key": "C", "value": "5~8" },
+        { "key": "D", "value": "8~10" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "16PF中的恃强性得分为2分，表明受试者可能属于（ ）的人格特性。",
+      "options": [
+        { "key": "A", "value": "认真、负责、尽职" },
+        { "key": "B", "value": "严肃、冷静、寡言" },
+        { "key": "C", "value": "谦逊、顺从、通融" },
+        { "key": "D", "value": "好强、独立、积极" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "不属于EPQ分量表的是（ ）。",
+      "options": [
+        { "key": "A", "value": "E量表" },
+        { "key": "B", "value": "D量表" },
+        { "key": "C", "value": "P量表" },
+        { "key": "D", "value": "N量表" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "按照EPQ中国常模标准，属于典型的内向的E量表T分划界值为（ ）分。",
+      "options": [
+        { "key": "A", "value": "大于61.5" },
+        { "key": "B", "value": "56.7至61.5" },
+        { "key": "C", "value": "38.5至43.3" },
+        { "key": "D", "value": "小于38.5" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "若人格类型为中间型，则EPQ各量表T分的范围是（ ）分。",
+      "options": [
+        { "key": "A", "value": "5.45～17.5" },
+        { "key": "B", "value": "17.5～30.1" },
+        { "key": "C", "value": "30.1～43.3" },
+        { "key": "D", "value": "43.3～56.7" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "question": "SCL-90评定的症状应该发生在（ ）。",
+      "options": [
+        { "key": "A", "value": "一年内" },
+        { "key": "B", "value": "一月内" },
+        { "key": "C", "value": "一周内" },
+        { "key": "D", "value": "任何时间" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "SCL---90的总分能反映受测者的（ ）。",
+      "options": [
+        { "key": "A", "value": "病情严重程度" },
+        { "key": "B", "value": "智力水平" },
+        { "key": "C", "value": "平均健康程度" },
+        { "key": "D", "value": "人格特征" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "SCL-90采用1~5的5级评分，筛选阳性的标准是总分超过（ ）。",
+      "options": [
+        { "key": "A", "value": "70" },
+        { "key": "B", "value": "160" },
+        { "key": "C", "value": "90" },
+        { "key": "D", "value": "180" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "在完成SDS测验时，要求被试者评定自己的实际感觉，其时间范围是最近（ ）。",
+      "options": [
+        { "key": "A", "value": "一年" },
+        { "key": "B", "value": "一月" },
+        { "key": "C", "value": "一周" },
+        { "key": "D", "value": "二周" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "按中国常模结果，SDS标准分的分界值为（ ）分。",
+      "options": [
+        { "key": "A", "value": "43" },
+        { "key": "B", "value": "53" },
+        { "key": "C", "value": "62" },
+        { "key": "D", "value": "72" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "按照中国常模，SAS标准分的分界值是（ ）分。",
+      "options": [
+        { "key": "A", "value": "40" },
+        { "key": "B", "value": "50" },
+        { "key": "C", "value": "60" },
+        { "key": "D", "value": "70" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "LES共含有48条我国较常见的生活事件，其中不包括（ ）。",
+      "options": [
+        { "key": "A", "value": "应对方式问题" },
+        { "key": "B", "value": "家庭生活问题" },
+        { "key": "C", "value": "工作学习问题" },
+        { "key": "D", "value": "社交方面问题" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "下列工具中，评定生活事件及其影响的是（ ）。",
+      "options": [
+        { "key": "A", "value": "BPRS" },
+        { "key": "B", "value": "SAS" },
+        { "key": "C", "value": "SCL-90" },
+        { "key": "D", "value": "LES" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "使用生活事件量表时，通常要求调查的时间范围为最近（ ）。",
+      "options": [
+        { "key": "A", "value": "半年" },
+        { "key": "B", "value": "一年" },
+        { "key": "C", "value": "二年" },
+        { "key": "D", "value": "三年" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "正常人一年内的LES总分不超过20分的比例大约是（ ）。",
+      "options": [
+        { "key": "A", "value": "99%" },
+        { "key": "B", "value": "95%" },
+        { "key": "C", "value": "90%" },
+        { "key": "D", "value": "80%" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "某些看似正性的社会生活事件也会成为（ ）。",
+      "options": [
+        { "key": "A", "value": "负性社会生活事件" },
+        { "key": "B", "value": "生物性应激源" },
+        { "key": "C", "value": "中性社会生活事件" },
+        { "key": "D", "value": "社会性应激源" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "关于应对方式问卷（CSQ），错误的说法是（ ）。",
+      "options": [
+        { "key": "A", "value": "可以反映人们解决问题的能力" },
+        { "key": "B", "value": "能够提高人们的应对水平" },
+        { "key": "C", "value": "可以比较不同个体或群体的应对行为差异" },
+        { "key": "D", "value": "可以反映人的心理发展成熟的程度" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "肖计划的应对方式问卷（CSQ）的积分主要采用（ ）。",
+      "options": [
+        { "key": "A", "value": "总分" },
+        { "key": "B", "value": "积极应对分" },
+        { "key": "C", "value": "因子分" },
+        { "key": "D", "value": "消极应对分" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "MMPI包含的重复题数量是（ ）个。",
+      "options": [
+        { "key": "A", "value": "16" },
+        { "key": "B", "value": "8" },
+        { "key": "C", "value": "12" },
+        { "key": "D", "value": "0" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "在MMPI的399题版本中，Q量表原始得分超过（ ）分，就表明答卷无效。",
+      "options": [
+        { "key": "A", "value": "10" },
+        { "key": "B", "value": "12" },
+        { "key": "C", "value": "22" },
+        { "key": "D", "value": "30" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "MMPI各分量表T分（中国常模）在（ ）分以上便可视为可能有病理性异常表现。",
+      "options": [
+        { "key": "A", "value": "60" },
+        { "key": "B", "value": "70" },
+        { "key": "C", "value": "80" },
+        { "key": "D", "value": "90" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "MMPI第一版共有14个量表，不属于效度量表的是（ ）。",
+      "options": [
+        { "key": "A", "value": "D量表" },
+        { "key": "B", "value": "Q量表" },
+        { "key": "C", "value": "L量表" },
+        { "key": "D", "value": "F量表" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "MMPI的Q量表高分提示受测者有（ ）。",
+      "options": [
+        { "key": "A", "value": "逃避现实倾向" },
+        { "key": "B", "value": "过分追求完美倾向" },
+        { "key": "C", "value": "过多的理解错误" },
+        { "key": "D", "value": "多度的防卫态度" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "MMPI的L量表原始得分超过（ ）分，就不能信任MMPI的结果。",
+      "options": [
+        { "key": "A", "value": "10" },
+        { "key": "B", "value": "15" },
+        { "key": "C", "value": "22" },
+        { "key": "D", "value": "30" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "按照中国常模结果，SAS的标准分在60-69分之间者可能为（ ）。",
+      "options": [
+        { "key": "A", "value": "正常" },
+        { "key": "B", "value": "轻度焦虑" },
+        { "key": "C", "value": "中度焦虑" },
+        { "key": "D", "value": "重度焦虑" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "在SCL-90的评分中，所谓阳性项目数指的是单项分（ ）的项目数。",
+      "options": [
+        { "key": "A", "value": "=1" },
+        { "key": "B", "value": "≥1" },
+        { "key": "C", "value": "=2" },
+        { "key": "D", "value": "≥2" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "一位受测者在EPQ的E量表上的T分为30分，则其个性倾向为（ ）。",
+      "options": [
+        { "key": "A", "value": "典型外向" },
+        { "key": "B", "value": "典型内向" },
+        { "key": "C", "value": "倾向外向" },
+        { "key": "D", "value": "倾向内向" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "如果一位受测者在EPQ的E量表上的T分为70分，在N量表上的T分为35分，则他具有（ ）的气质。",
+      "options": [
+        { "key": "A", "value": "多血质" },
+        { "key": "B", "value": "胆汁质" },
+        { "key": "C", "value": "黏液质" },
+        { "key": "D", "value": "抑郁质" }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "某求助者SCL-90各因子得分为：躯体化1.4，强迫症状3.5，人际关系敏感3.8，抑郁3.4，焦虑2.5，敌对2.0，恐怖1.9，偏执2.5，精神病性1.9，其他2.7，不符合该求助者情况的是（ ）。",
+      "options": [
+        { "key": "A", "value": "可列为筛查阳性" },
+        { "key": "B", "value": "有明显躯体症状" },
+        { "key": "C", "value": "有明显自卑感" },
+        { "key": "D", "value": "需进一步检查" }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "SCL-90的统计指标主要有两项，即总分和（ ）。",
+      "options": [
+        { "key": "A", "value": "阳性项目数" },
+        { "key": "B", "value": "阴性项目数" },
+        { "key": "C", "value": "阳性项目均分" },
+        { "key": "D", "value": "因子分" }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "SDS的粗分为53分，提示可能为（ ）。",
+      "options": [
+        { "key": "A", "value": "正常" },
+        { "key": "B", "value": "轻度抑郁" },
+        { "key": "C", "value": "中度抑郁" },
+        { "key": "D", "value": "重度抑郁" }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "关于MMPl，下列说法中正确的是（ ）。",
+      "options": [
+        { "key": "A", "value": "包括566个自我报告形式的题目" },
+        { "key": "B", "value": "量表中设置了20道重复的题目" },
+        { "key": "C", "value": "施测方法中包括卡片式及手册式" },
+        { "key": "D", "value": "精神病临床诊断可仅做前399题" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 37,
+      "question": "MMPI的适用人群范围是（ ）。",
+      "options": [
+        { "key": "A", "value": "年龄16岁以上" },
+        { "key": "B", "value": "年龄10岁以上" },
+        { "key": "C", "value": "小学毕业以上的文化水平" },
+        { "key": "D", "value": "初中毕业以上的文化水平" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 38,
+      "question": "关于MMPI，下列说法中正确的是（ ）。",
+      "options": [
+        { "key": "A", "value": "属于自陈式量表" },
+        { "key": "B", "value": "仅限于个别施测" },
+        { "key": "C", "value": "适用于各年龄段人群" },
+        { "key": "D", "value": "采用Ｔ分数记分" }
+      ],
+      "answer": "AD"
+    },
+    {
+      "id": 39,
+      "question": "如果一个有效的MMPI测验结果显示F量表分数高，表明（ ）。",
+      "options": [
+        { "key": "A", "value": "受试者伪装疾病" },
+        { "key": "B", "value": "受试者回答问题不认真" },
+        { "key": "C", "value": "其临床症状比较严重" },
+        { "key": "D", "value": "得分越高暗示精神病程度越重" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 40,
+      "question": "社会支持评定量表(SSRS)的统计指标包括（ ）。",
+      "options": [
+        { "key": "A", "value": "精神支持分" },
+        { "key": "B", "value": "物质支持分" },
+        { "key": "C", "value": "客观支持分" },
+        { "key": "D", "value": "主观支持分" }
+      ],
+      "answer": "CD"
+    },
+    {
+      "id": 41,
+      "question": "对SCL---90结果的解释，考虑筛选阳性的指标包括（ ）。",
+      "options": [
+        { "key": "A", "value": "总分＞160" },
+        { "key": "B", "value": "任一因子分＞2" },
+        { "key": "C", "value": "阳性项目数＞43" },
+        { "key": "D", "value": "6个方面因子分异常" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 42,
+      "question": "在实施16PF测验时，注意事项包括（ ）。",
+      "options": [
+        { "key": "A", "value": "必须先作四个例题" },
+        { "key": "B", "value": "每题只选一个答案" },
+        { "key": "C", "value": "不可漏掉任何测题" },
+        { "key": "D", "value": "尽量不选中性答案" }
+      ],
+      "answer": "ABCD"
+    },
+    {
+      "id": 43,
+      "question": "EPQ的分量表包括（ ）量表。",
+      "options": [
+        { "key": "A", "value": "Q" },
+        { "key": "B", "value": "L" },
+        { "key": "C", "value": "E" },
+        { "key": "D", "value": "K" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 44,
+      "question": "对于16PF的测验结果可按照（ ）进行解释。",
+      "options": [
+        { "key": "A", "value": "低分者特征" },
+        { "key": "B", "value": "以平均分数和标准差的方式" },
+        { "key": "C", "value": "高分者特征" },
+        { "key": "D", "value": "某一筛查阳性的划界值" }
+      ],
+      "answer": "AC"
+    },
+    {
+      "id": 45,
+      "question": "运用16PF的特殊演算公式得出的人格因素包括（ ）。",
+      "options": [
+        { "key": "A", "value": "适应与焦虑性" },
+        { "key": "B", "value": "创造性强" },
+        { "key": "C", "value": "怯懦与果断性" },
+        { "key": "D", "value": "在新的环境中有成长能力" }
+      ],
+      "answer": "BD"
+    },
+    {
+      "id": 46,
+      "question": "关于卡特尔16种人格因素测验，下列说法中正确的是（ ）。",
+      "options": [
+        { "key": "A", "value": "属于客观化测验" },
+        { "key": "B", "value": "测量的是根源特质" },
+        { "key": "C", "value": "采用经验法编制" },
+        { "key": "D", "value": "可应用于人才选拔" }
+      ],
+      "answer": "ABD"
+    },
+    {
+      "id": 47,
+      "question": "16PF量表中乐群性高分者的人格特征是（ ）。",
+      "options": [
+        { "key": "A", "value": "冷淡" },
+        { "key": "B", "value": "环性情感" },
+        { "key": "C", "value": "外向" },
+        { "key": "D", "value": "分裂情感" }
+      ],
+      "answer": "BC"
+    },
+    {
+      "id": 48,
+      "question": "16PF量表中实验性高分者的人格特征是（ ）。",
+      "options": [
+        { "key": "A", "value": "自由" },
+        { "key": "B", "value": "尊重道德观念" },
+        { "key": "C", "value": "激进" },
+        { "key": "D", "value": "不拘泥于现实" }
+      ],
+      "answer": "ACD"
+    },
+    {
+      "id": 49,
+      "question": "应对方式问卷（CSQ）的分量表包括（ ）。",
+      "options": [
+        { "key": "A", "value": "问题解决" },
+        { "key": "B", "value": "合理化" },
+        { "key": "C", "value": "自责" },
+        { "key": "D", "value": "妄想" }
+      ],
+      "answer": "ABC"
+    },
+    {
+      "id": 50,
+      "question": "EPQ将各人格维度分为（ ）。",
+      "options": [
+        { "key": "A", "value": "中间型" },
+        { "key": "B", "value": "倾向型" },
+        { "key": "C", "value": "过渡型" },
+        { "key": "D", "value": "典型型" }
+      ],
+      "answer": "ABD"
+    }
+  ]
+}
